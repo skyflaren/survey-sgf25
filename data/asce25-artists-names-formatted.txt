@@ -102,7 +102,6 @@ NewJeans
 Luke Chiang
 Arctic Monkeys
 William Black
-Any Kpop
 Lucki
 Childish Gambino
 Flo Milli
@@ -159,7 +158,7 @@ Rauw Alejandro
 Hojean
 Weston Estate
 Anderson .Paak
-EAJ
+eaJ
 Post Malone
 Men I Trust
 Phoebe Bridgers
@@ -186,7 +185,7 @@ Ricky Montgomery
 GloRilla
 Ice Spice
 Big Time Rush
-2Hollis
+2hollis
 Young Miko
 BTS
 P1Harmony
@@ -227,8 +226,7 @@ Jungle
 mxmtoon
 The Japanese House
 DPR Live
-Half Alive
-Students
+half•alive
 Ski Mask the Slump God
 Alice Phoebe Lou
 Summer Walker
@@ -238,7 +236,7 @@ Luna Li
 Sunkis
 Vacations
 Willow
-Rose from BLACKPINK
+Rose
 Bibi
 Leon Thomas
 Danny Ocean
@@ -354,7 +352,7 @@ Disco Lines
 Said The Sky
 Warren Hue
 Tommy Richman
-Sundial
+sundial
 Blink-182
 Myke Towers
 The Crane Wives
@@ -581,7 +579,7 @@ Shaq aka DJ Diesel
 Anson Seabra
 Amelia Moore
 Chief Keef
-Jennie Kim
+Jennie
 Cannons
 Korn
 Berry Blue
@@ -731,7 +729,7 @@ Bones
 Ayybo
 Celine
 Fuji Kaze
-Tokimonsta
+TOKiMONSTA
 S
 Stan Walker
 Rei Ami
@@ -1103,7 +1101,7 @@ Kim Doyoung (NCT)
 Ray Bull
 Lolo Zouai
 BRB
-Zbo Is So Good Pls Put Him On
+Zbo
 Social Distortion
 Sullivan King
 Alessia Cara
@@ -1194,7 +1192,6 @@ Luke Bryan
 Alt-J
 Machine Girl
 Lil Yachty
-Ang RnB Artists
 Diddy
 Of Montreal
 Snake Pool
@@ -1205,7 +1202,6 @@ Jai Wolf
 AJ Tracy
 TWS
 Remy Bond
-Any EDM Artist
 Greek
 Luke Combs
 Regina Song
@@ -1343,7 +1339,7 @@ Los Angeles Azules
 Bulow
 Lexie Liu
 Slightly Stoopid
-Jawny
+JAWNY
 Sufjan Stevens
 Yeek
 Moon Walker
