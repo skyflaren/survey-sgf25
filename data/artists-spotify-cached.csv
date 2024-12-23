@@ -1,1370 +1,3079 @@
-artist_name,popularity
-Julie,60
-The Dare,60
-Dayglow,65
-JVKE,77
-Girl in Red,77
-Joey Bada$$,74
-P1Harmony,64
-BTS,87
-Young Miko,80
-Big Time Rush,65
-Ice Spice,75
-GloRilla,83
-Ricky Montgomery,72
-Between Friends,61
-Nueve Lio,48
-Fisher,78
-Japanese Breakfast,58
-Subtronics,65
-Linkin Park,93
-Fuerza Regida,91
-Glass Animals,77
-Flo Milli,74
-Childish Gambino,81
-Lucki,80
-Any Kpop,90
-William Black,55
-Arctic Monkeys,88
-Luke Chiang,64
-NewJeans,82
-JID,79
-Remi Wolf,67
-Zach Bryan,90
-Bryson Tiller,83
-Hatsune Miku,68
-TOMORROW X TOGETHER,81
-Thuy,65
-Del Water Gap,63
-Tyla,79
-Lil Tecca,83
-Fred again..,79
-Dabin,58
-Rex Orange County,76
-Porter Robinson,65
-Dom Dolla,72
-Artist,12
-Thee Sacred Souls,71
-Tame Impala,81
-Tinashe,73
-Mac DeMarco,82
-Kehlani,77
-Victoria Monét,68
-J. Cole,87
-Lyn Lapid,64
-Blxst,69
-Jhene Aiko,80
-Renee Rapp,69
-New Jeans,82
-Blood Orange,70
-DPR Ian,68
-Hozier,86
-Troye Sivan,79
-Peso Pluma,93
-D4VD,82
-Magdalena Bay,69
-Doja Cat,87
-Mike Sherm,68
-Lizzy McAlpine,74
-John Summit,74
-Doechii,80
-Pitbull,86
-TV Girl,84
-Baby Keem,78
-Conan Gray,81
-The Driver Era,59
-Illenium,72
-Taylor Swift,100
-Lauv,77
-IDK,59
-Steve Lacy,83
-Zedd,76
-LE SSERAFIM,80
-Frank Ocean,89
-Chase Atlantic,84
-Billie Eilish,96
-Ken Carson,82
-Kiss of Life,76
-PinkPantheress,78
-Kaytranada,73
-isoxo,58
-Brent Faiyaz,86
-Faye Webster,74
-isoknock,52
-Role Model,68
-JPEGMAFIA,69
-Lana Del Rey,92
-Kali Uchis,86
-Joji,80
-Omar Apollo,70
-aespa,83
-Knock2,63
-Noah Kahan,86
-Playboi Carti,90
-Drake,97
-Malcolm Todd,68
-Olivia Rodrigo,88
-Tate McRae,86
-Daniel Caesar,87
-The Weeknd,96
-Charli XCX,87
-NIKI,79
-Travis Scott,94
-Don Toliver,88
-Dominic Fike,79
-Clairo,82
-Bruno Mars,96
-Wallows,73
-Gracie Abrams,91
-SZA,93
-Keshi,78
-Kendrick Lamar,97
-The Marías,81
-Grent Perez,66
-Wave to Earth,77
-"Tyler, The Creator",93
-Chappell Roan,88
-Sabrina Carpenter,94
-Beabadoobee,83
-Katseye,74
-Laufey,85
-Lil Uzi Vert,86
-A$AP Rocky,86
-Yeat,83
-Djo,76
-Pierce the Veil,76
-Flo,81
-Rocco,63
-PartyNextDoor,85
-Still Woozy,68
-Wasia Project,59
-Kanye West,93
-SEVENTEEN,81
-bbno$,74
-Cigarettes After Sex,87
-The Strokes,78
-KSI,71
-SLANDER,67
-Aminé,67
-Vince Staples,70
-COIN,61
-Benson Boone,85
-The Kid LAROI,85
-Cuco,70
-Denzel Curry,75
-XG,73
-Deftones,82
-Karol G,91
-Måneskin,80
-The Chainsmokers,83
-Set It Off,68
-Suki Waterhouse,72
-Friday Pilots Club,60
-Destroy Lonely,75
-Paramore,80
-ATEEZ,76
-Nav,68
-Peach Pit,64
-Khalid,85
-Phoebe Bridgers,80
-Men I Trust,72
-Post Malone,90
-Anderson .Paak,78
-Weston Estate,54
-Hojean,57
-Rauw Alejandro,94
-Junior H,91
-Bad Bunny,96
-Backseat Lovers,67
-ENHYPEN,82
-YOASOBI,77
-Kesha,82
-Rina Sawayama,59
-Shawn Mendes,85
-Cage the Elephant,76
-Ravyn Lenae,63
-Megan Thee Stallion,83
-Jay Park,67
-Dijon,60
-Mitski,84
-Flipturn,61
-Future,93
-Snow Strippers,69
-Bladee,70
-The Backseat Lovers,67
-Yuno Miles,53
-Smino,70
-Metro Boomin,90
-Stray Kids,88
-Ian,72
-Halsey,83
-Kanye,93
-Coldplay,91
-ARMNHMR,48
-Imagine Dragons,89
-Finneas,71
-Giveon,78
-Jackson Wang,62
-Alex G,78
-Yung Lean,68
-Jean Dawson,58
-5 Seconds of Summer,77
-21 Savage,89
-Morgan Wallen,90
-Bixby,58
-Rich Brian,67
-TWICE,82
-Declan McKenna,68
-SexyY Red,82
-Teezo Touchdown,73
-Stephen Sanchez,76
-Feid,93
-Lil Yachty,81
-Maisie Peters,64
-UMI,63
-Jungle,75
-mxmtoon,65
-The Japanese House,63
-DPR Live,60
-Ski Mask the Slump God,73
-Alice Phoebe Lou,64
-Summer Walker,82
-Tems,78
-Wooli,59
-Luna Li,52
-Sunkis,62
-Vacations,74
-Willow,72
-Bibi,67
-Leon Thomas,68
-Danny Ocean,80
-Good Kid,66
-Eminem,93
-Riize,67
-Calvin Harris,86
-Adele,87
-Shygirl,63
-Madison Beer,75
-System of a Down,84
-Starfall,2
-Lady Gaga,92
-Raye,80
-Mico,56
-Ruel,64
-Mkgee,68
-Aurora,77
-King Krule,62
-Junny,57
-The Rose,63
-Gunna,88
-Justin Bieber,92
-NMIXX,67
-MUNA,58
-Jack Johnson,76
-Isaiah Rashad,70
-Bakar,70
-Amaarae,68
-My Chemical Romance,81
-Jesse Barrera,62
-Mother Mother,73
-Kid Cudi,80
-Ethel Cain,68
-The Neighborhood,86
-NCT,69
-Aaron May,72
-Waterparks,60
-It's Murph,62
-Latin Mafia,76
-Blackbear,76
-Grimes,70
-Foushee,62
-Ado,77
-Cris MJ,3
-Maggie Rogers,71
-Gigi Perez,81
-Knox,57
-LANY,78
-RINI,60
-Alec Benjamin,77
-Renee Rap,69
-Daniel Seavey,55
-Jordan Ward,63
-Charlie Puth,81
-Boynextdoor,69
-Dhruv,70
-Dean,77
-Cavetown,71
-Day6,70
-Laundry Day,46
-Rihanna,92
-Addison Rae,74
-Vance Joy,78
-Benee,65
-Weezer,76
-Emei,65
-AJR,73
-Becky G,79
-Dannylux,73
-Loona,55
-Psy,65
-Fiji Blue,57
-Vampire Weekend,67
-Ginger Root,55
-Surfaces,66
-Paris Texas,52
-Orion Sun,67
-Excision,61
-Destin Conrad,57
-ODESZA,69
-Eric Nam,55
-(G)I-DLE,75
-Dua Lipa,89
-Royel Otis,73
-Yves Tumor,58
-Mariah The Scientist,69
-WISP,64
-RL Grime,63
-Dreamcatcher,60
-Xavi,72
-Sasha Sloan,71
-Aidan Bissett,55
-Rico Nasty,64
-Ed Sheeran,90
-Bring Me The Horizon,81
-I Don’t Know,62
-Vansire,68
-Foster The People,74
-Bazzi,71
-Jeremy Zucker,70
-Hippo Campus,59
-Matt Maltese,70
-David Kushner,77
-Tiffany Day,48
-Matroda,60
-NOTD,62
-Harry Styles,85
-Miguel,81
-Seven Lions,61
-JKRS Collective,62
-Disco Lines,61
-Said The Sky,56
-Warren Hue,50
-Tommy Richman,78
-Blink-182,79
-Myke Towers,90
-The Crane Wives,64
-OneRepublic,85
-Wang Ok,47
-El Alfa,79
-Ha Vay,44
-Sun Room,47
-Snoop Dogg,86
-Nettspend,71
-The Garden,58
-Em Beihold,71
-Denise Julia,67
-Rainbow Kitten Surprise,72
-Boy Pablo,0
-Travis,94
-Boygenius,28
-T-Pain,80
-Ericdoa,62
-Riovaz,63
-Goth Babe,62
-Inhaler,60
-Cupcakke,58
-Olivia Dean,72
-Jomm,78
-Audrey Nuna,54
-Eem Triplin,62
-Roddy Ricch,80
-Zayn,79
-Earl Sweatshirt,71
-Claire Rosinkranz,58
-STAYC,63
-The Last Dinner Party,66
-AG Club,47
-NLE Choppa,81
-Schoolboy Q,78
-Bruno Major,67
-6lack,74
-100 Gecs,59
-Ca7riel & Paco Amoroso,68
-Chase & Status,72
-Steve Aoki,74
-Twenty One Pilots,85
-Peach Tree Rascals,56
-Tokischa,72
-Alex Warren,78
-The Smashing Pumpkins,75
-Martin Garrix,77
-Jimmy Eat World,70
-Peggy Gou,67
-Mt. Joy,71
-Any Country,2
-Duckwrth,60
-Red Hot Chili Peppers,84
-DJ Mandy,5
-Kendrick Lamar Duckworth,97
-Ecco2k,62
-The Drums,64
-Yerin Baek,58
-Slowdive,65
-Artms,51
-Niall Horan,76
-Chicano Batman,47
-Rammstein,81
-Teddy Swims,87
-Myles Smith,79
-Nicky Youre,69
-Yung Gravy,68
-311,63
-Michael Jackson,85
-Los Hermanos Mendoza,34
-Madeon,56
-Coco & Clair Clair,60
-Alan Walker,82
-Neon Trees,66
-Alvvays,59
-Melanie Martinez,79
-MCR,81
-Sublime,73
-Kygo,82
-Arca,90
-Russ,77
-Kalan FrFr,18
-M83,72
-Kevin Kaarl,75
-Bon Jovi,80
-SOB x RBE,54
-Deadmau5,68
-Pierre Bourne,62
-Late Night Drive Home,55
-Starset,67
-NCT Dream,77
-The Wrecks,53
-Radiohead,85
-Hotel Ugly,77
-Joyce Manor,57
-Feeble Little Horse,48
-Mazzy Star,72
-No Candy,3
-Tori Kelly,71
-Lil Baby,87
-Fontaines D.C.,73
-P-Lo,57
-No Candy Band,43
-Caroline Polacheck,64
-Tool,72
-Lil Wayne,89
-Sarah Kinsley,54
-The Linda Lindas,48
-MGMT,76
-Chelsea Cutler,68
-Ariana Grande,96
-Poppy,68
-Crumb,64
-Caamp,69
-Panchiko,63
-IVE,74
-Herencia De Patrones,68
-Fly By Midnight,62
-Marina,74
-Ohgeesy,70
-Chevy,60
-Coco Jones,65
-Polyphia,62
-Beach Bunny,70
-Snow Wife,57
-Lorde,78
-Thomas Day,53
-Macklemore,78
-Car Seat Headrest,63
-Christian Kuria,58
-Good Boy Daisy,38
-Inner Wave,50
-Ryan Beatty,53
-Catfish and the Bottlemen,66
-Usher,83
-Shoreline Mafia,70
-Bryant Barnes,68
-Tory Lanez,83
-88rising,68
-Voila,69
-Empire of the Sun,78
-Zerobaseone,66
-Solange,62
-Raveena,57
-$uicideboy$,87
-Bad Omens,75
-Level Up,15
-DPR Ian/Live,68
-Kim Petras,75
-Frex,46
-The Living Tombstone,72
-Erykah Badu,69
-Leon Bridges,75
-Nicki Minaj,87
-Kidsnot$aints,48
-Babymetal,70
-Kiana Lede,63
-Ritt Momney,55
-Ayesha Erotica,72
-Roar,67
-Odd Mob,64
-Audien,56
-Almost Monday,57
-Young The Giant,68
-Rosalia,80
-Tupac,82
-Johnny Orlando,58
-Pryvt,56
-One OK Rock,73
-Tiesto,84
-Swae Lee,81
-Gemini,57
-Gorillaz,81
-Fetty Wap,71
-Muse,77
-Mason Ramsey,53
-FKA Twigs,66
-Lola Young,80
-Glaive,64
-They Might Be Giants,59
-Beyoncé,87
-Lancey Foux,61
-A Boogie Wit Da Hoodie,79
-Jon Bellion,67
-Cleo Sol,69
-San Holo,56
-Summrs,66
-Lin Manuel Miranda,75
-Briston Maroney,60
-The Band Light,21
-Sara Landry,60
-Crankdat,53
-The Lumineers,79
-JoJo Siwa,47
-Dave,78
-Odetari,80
-Galantis,70
-Arijit Singh,91
-Montell Fish,77
-Two Door Cinema Club,71
-Eslabon Armado,79
-Ross Lynch,60
-Sean Paul,82
-Bailey Zimmerman,77
-Megan Moroney,77
-Trivecta,51
-Ashnikko,75
-Hybs,68
-Ty Dolla $ign,84
-Colde,62
-The Arkangels,0
-$NOT,68
-JSTJR,44
-Saint Motel,64
-Kikuo,62
-Treaty Oak Revival,76
-Masego,72
-070 Shake,71
-Joshua Bassett,59
-Levity,52
-Shaq aka DJ Diesel,21
-Anson Seabra,65
-Amelia Moore,54
-Chief Keef,78
-Cannons,62
-Korn,78
-Berry Blue,0
-The Buttertones,51
-Folk Bitch Trio,36
-Lexa Gates,58
-Brockhampton,65
-Turnstile,60
-Jazmine Sullivan,67
-Mickey Darling,50
-Honne,65
-Charlie Burg,53
-Connor Price,74
-"The Army, The Navy",50
-Izna,4
-Diljit Dosanjh,82
-Noa,86
-Johnny Huynh,51
-Bren Joy,63
-Isabel Larosa,76
-Jeff Bernat,61
-Phantogram,67
-Leith Ross,60
-Shakira,88
-The Red Pears,45
-The Front Bottoms,64
-Rawayana,71
-Tabber,51
-Janelle Monáe,68
-Dora Jar,50
-Ryan B,57
-Sean Combs,73
-Keenan Te,63
-Nessa Barrett,74
-Eliza Doolittle,68
-Meet Me @ The Alter,45
-Bungalow Collect,39
-Bears In Trees,43
-Soul Glo,33
-Sonder,74
-Big Shaq,44
-Britney Spears,84
-Mau P,64
-My Joy,35
-Hailey Walsh,57
-Dodie,13
-Lucy,69
-The Birthday Massacre,49
-Black Tiger Sex Machine,49
-Ashsocozy,0
-Wax Motif,53
-Kishi Bashi,53
-Ozuna,87
-Have,56
-Carly Rae Jepsen,73
-Imase,66
-Friend,38
-Enrique Iglesias,79
-Blk Odyssy,57
-Coastal Club,37
-Meduza,75
-Kolohe Kai,60
-Onew,0
-Lord Huron,78
-Ian Asher,64
-Yes Candy,37
-Isaac Dunbar,48
-Gojira,66
-Naomi Jon,45
-Claire,82
-Day Wave,49
-Yaeji,52
-Haarper,66
-Vintage Culture,74
-The Guys From Whiplash,42
-Charlotte Lawrence,57
-John K,55
-Teo Glacier,58
-Disclosure,76
-Erika De Casier,48
-Eve,69
-Alex Sampson,55
-Tego Calderon,73
-BB Juelz,46
-Blossom,33
-Go,81
-The Boyz,61
-Suchmos,54
-Mr 305,0
-Blvck Svm,56
-Ivan Cornejo,79
-Kero Kero Bonito,56
-Jay Chou,78
-Minds Eye,0
-Blondshell,49
-Logan Paul,38
-Chloe X Halle,67
-N./N./N,0
-Saint Luna,24
-Black Pumas,64
-Shreya Ghosal,85
-Woosung,1
-Foo Fighters,78
-John Mayer,78
-The Clash,72
-Milky Chance,74
-Kelela,53
-EarthGang,64
-Sheff G,70
-The Moss,48
-Abel Tesfaye,21
-Kire,13
-Sade,77
-Lil Nas X,76
-Luna Day,34
-Neon Killers,70
-Common Kings,57
-Banda (Any Kind),48
-Neyo,83
-Okay Kaya,50
-Nathan Sharp,41
-Kanaboon,62
-Money Bag Yo,77
-Gryffin,69
-Alice Lou Phoebe,64
-Beach House,74
-Alessi Rose,51
-Cloonee,62
-Zekk,39
-Sofia Valdez,45
-Make Towers,52
-Diljit,82
-Clinton Kane,63
-Roman Candle,30
-Mexican Slum Rats,45
-Her New Knife,36
-Labyrinth,78
-Phoneboy,50
-Dr. Dog,65
-Black Party,46
-Binki,48
-Roe Kapara,50
-Bones,75
-Ayybo,60
-Celine,80
-Fuji Kaze,74
-S,93
-Stan Walker,53
-Rei Ami,55
-Any Singer,55
-Suburb Talks,68
-Laszewo,53
-SWMRS,43
-Mike,71
-Seori,58
-Lucy Dacus,69
-Editors,54
-Valley,59
-JoeChillWorld,63
-Alfie Templeman,53
-Hiatus Kaiyote,58
-Shura,45
-Yung Heazy,27
-Bree Runway,49
-No Idea,1
-John Travolta,66
-Da Punk Band That Plays In Naruto,61
-Quadeca,54
-Nas,74
-Gareth Emery,59
-Mac Carroll,0
-Snoh Alegra,67
-Kyndal Inskeep,41
-Maybe Candy,47
-Matt Garza,52
-BabyTron,70
-Andrew (DJ Drew) Alexander,34
-Sir Chloe,63
-BizaRap,82
-The Vanished People,55
-Lovejoy,59
-Yeah Yeah Yeahs,70
-Lil Mabu,62
-Gareth.T,55
-Better Love,46
-John Oliver,41
-Eartheater,52
-Romy,60
-Lelo,57
-Jenna Raine,61
-Any Rock Band,42
-IU,71
-Zack Tabudlo,68
-James Blake,71
-Laila,59
-Joy Crookes,59
-Flyna Boss,52
-BLACKPINK,80
-Emilia Mernes,0
-ITZY,72
-Adrienne Lenker,75
-Red Velvet,71
-Horsegiirl,50
-Vulfpeck,60
-Black Kray / Sickboyrari,20
-Khruangbin,72
-Black Eyed Peas,81
-Tyga,79
-Mndr,44
-Lil Skies,68
-Andre 3000,68
-YG,74
-Rooler,61
-Big Thief So Everyone Can Be Big Sad,75
-Chris James,59
-Avenged Sevenfold,78
-Arrows In Action,55
-Destroy Boys,60
-Hardy,75
-The Smile,59
-Evann McIntosh,36
-Max,71
-Tove Lo,75
-Boy Next Door,43
-Austin Moon,53
-Corbyn Besson,45
-Joe P,51
-Wuki,61
-Chloe Bailey,9
-PC,71
-Tailor,100
-Natanael Cano,90
-IDKHOW,62
-Xavier Wulf,72
-La Cuadrilla,47
-".,N.N",44
-Dream,49
-Jay Eazy,46
-Faime,48
-Don Omar,85
-Julieta Venegas,77
-Cautious Clay,56
-Zoe Wees,66
-Any Si Get,27
-Metallica,84
-Home,60
-Pavement,60
-Bleachers,72
-King Triton,23
-Normani,70
-Jason Mraz,73
-Bowling For Soup,63
-Amindi,45
-White Collars,11
-Shaboozey,81
-JJ Lin,68
-Strings And Heart,54
-The Alton’s,52
-ThatMexicanoT,72
-Black Skirts,58
-Jack Black,53
-JBoog,1
-Belanova And Luis Miguel,86
-Dana And Alden,46
-Sammy Rash,57
-Ozi,16
-Crush,56
-XOTWOD,66
-Kylie Minogue,76
-Larry June,67
-Palace,61
-Dylan,69
-Rufus De Sol,76
-BSS,61
-Gale,4
-Creepy Nuts,77
-Tigercub,42
-Rayen Lenae,72
-Father John Misty,72
-Reed Wonder & Aurora Olivas,65
-DogPark,42
-Local People,0
-Bruno,96
-Ley Soul,54
-Singing,45
-Pearl Jam,77
-A Baddie,43
-Joe Hisaishi,71
-Sleep Token,78
-Joe Maynor,34
-Six Sex,48
-Svchucky,0
-Washed Out,53
-"Black Country, New Road",55
-Volbeat,70
-Layz,42
-Michael Cera,57
-Front Bottoms,64
-Renforshort,46
-Woodz,6
-Summer Salt,82
-Tritonal,54
-Fleshwater,56
-The Beaches,62
-Zelooperz,49
-Adrianne Lenker,75
-Porcupine Tree,56
-Homixide Gang,65
-Femtanyll,63
-Louis The Child,59
-Stella Jang,50
-Grouplove,64
-Marshmellow,85
-T+Pazolite,47
-Ashe,70
-Gable Price And Friends,46
-Jordy Searcy,49
-The Altons/Superheaven,65
-Miles,65
-Milena,45
-Deng Dian,34
-Katy Perry,86
-Ella Musch,47
-Nico Play,46
-IV Of Spades,66
-Surf Curse,75
-Jessie Reyez,68
-One Republic,85
-A$AP Ferg,73
-Lunay,72
-Rusted Root,57
-Quinnie,53
-Johnny Stimson,57
-Wendy From Red Velvet,66
-Drug Dealer,57
-Chance The Rapper,75
-Lamp,65
-Cobra Man,39
-Hotel Books,39
-Odoriko,25
-Cults,72
-Vaultboy,1
-Stick Figure,69
-Skepta,75
-Crystal Castles,73
-Gorgon City,63
-Waylon Wyatt,67
-Joost Klein,14
-Avicii,81
-Dr. Fresch,54
-Ningning From Aespa,83
-Claudia,41
-Fiona Apple,67
-Mike Posner,71
-Zoe (Mexican Rock Band),74
-Kompany,48
-2NE1,65
-Xanakin Skywok,55
-Grouper,63
-Tony22,40
-Wolf Alice,61
-?,84
-Youra,0
-The Crying Nudes,41
-The Dip,60
-No Guidance,13
-Laidback Luke,58
-Nine Inch Nails,68
-Holly Humberstone,58
-Mexican OT,72
-Mitis,0
-Pentatonix,84
-Stand Atlantic,56
-Micah Dailey White,44
-Flyana Boss,52
-Guns N' Roses,81
-Kashbocks,23
-Mavi,61
-Eden,61
-Quavo,81
-Sofaygo,61
-Koffee,21
-Jessica Baio,59
-Easha,45
-Purity Ring,50
-Scowl,47
-Marina And The Diamonds,74
-Drama Trial,28
-Avril Lavigne,78
-Sure Sure,50
-Quinn XCII,65
-Anyone Of The Big Artists From Head In The Clouds Honestly,30
-TisaKorean,52
-Crying City,50
-Jimmy Brown,51
-Cobra Starship,60
-LCD Soundsystem,62
-The Backfires,35
-Avery Lynch,48
-Blue Hour,16
-Gucci Mane,78
-The Dirty Heads,64
-Khantrast,64
-Crane Wives,64
-Metal Bands,59
-The Walters,73
-Jimin,88
-Wale The Sage,52
-Iration,56
-Bygones,13
-Matthew Ifield,59
-Beach Bums,39
-Francis Blume,16
-DJ,76
-I,71
-Steely Dan,69
-Nocandy Band,42
-Sammy Virji,65
-Aqyila,54
-I Don't Know How But They Found Me,62
-Jamiroquai,70
-Polo Gonzalez,62
-The Score,69
-Cher,75
-TheFatRat,67
-Hugelthug,33
-M.I.A.,70
-Lisa Ono,58
-AwakeButStillInBed,26
-Mahalia,61
-Quarters Of Change,45
-Palaye Royale,64
-Mac Ayres,58
-Dreamer Isioma,52
-Amyl And The Sniffers,63
-Ray Volpe,53
-Destiny Rogers,52
-Israel's Arcade,30
-David Guetta,90
-A,83
-Pharrell,82
-Matt Hansen,72
-Katherine Li,49
-Di,73
-J,79
-Micheal Sanzone,47
-Katie,86
-Interpol,65
-Devon Hendryx,54
-Foxtide,39
-Nmn.N,25
-Hrvy,59
-D.Savage/Lucki,80
-Little Simz,71
-Mad Tsai,58
-Bellakah,74
-Project Pat,68
-Cochise,66
-Holy Wars,36
-Primus,59
-Sub Focus,68
-Tito Double P,91
-Monsta X,2
-Sleepy Hallow,78
-Chencho Corleone,80
-John Cena,48
-Jordan Sweeto,28
-Boy Harsher,55
-The Eagles,79
-Chyl,0
-Kenny Mason,62
-KARD,57
-Alexandria Savior,50
-Snail Mail,47
-Florence And The Machine,78
-Dolphins On Acid,15
-Zach Top,74
-Planet Giza,55
-Camila Cabello,83
-Drinkurwater,35
-Elley Duhe,75
-Smokey Robinson,55
-B If Do,1
-Nikki Minaj,87
-03 Greedo,64
-Hyejin,0
-Leigh Ross,4
-Ludmilla,29
-Soulja Boy,70
-Isabella Lovestory,45
-Xenia,43
-DPR,68
-Ava Max,82
-Band Performing,1
-RE6CE,56
-Tape B,56
-Ella Mai,72
-Tobi Lou,0
-Daniel Jikal,38
-One Direction,88
-Elsa And Emilie,46
-Duckworth,0
-UPSAHL,59
-Rich Amiri,73
-Jiwoo (Maisonjiwoo),42
-Yung Nudy,4
-Run The Jewels,61
-The Hails,49
-Sampha,66
-Kim Doyoung (NCT),56
-Ray Bull,47
-Lolo Zouai,54
-BRB,1
-Social Distortion,57
-Sullivan King,57
-Alessia Cara,76
-Three Days Grace 2x,78
-Lil Durk,82
-Khai Dreams,55
-Kes,82
-Yeule,57
-Natori,68
-Amine Or Sir,67
-The Wombats,64
-Prvyt,3
-Khloe Rose,48
-Shotgun Willy,60
-Asumuh,52
-Griff,68
-143Kane,5
-Olivia Rodrigues,88
-George Clanton,60
-Ciara,72
-Allen Stone,54
-LeBron James,20
-Loossemble,56
-Underscores,52
-Madeline The Person,50
-Maroon 5,87
-Reol,59
-Osamason,67
-Forrest.,54
-Chris Stussy,59
-Balu Brigada,55
-Allison Ponthier,51
-Crawlers,48
-Daisy,57
-Miley Cyrus,84
-The 1975,78
-The Growlers,60
-Teo,8
-Poets Of The Fall,51
-Raveena Aurora,57
-Zutomayo,69
-Jeff Rosenstock,50
-Nathan Evans,67
-Aeden Alvarez,21
-Natalia Lafourcade,74
-Ethan Kozberg :D,55
-John Lennon,78
-Grupo Marca Registrada,80
-Dabeull,59
-Catalyst,42
-Bino Rideaux,55
-Subradio,42
-Lil Shine,45
-Rad Museum,51
-Ranee Rapp,22
-Caroline Polachek,64
-Hieuthuhai,71
-Illit,77
-Emotional Oranges,58
-1nonly,70
-Sheena Ringo,64
-Billy Joel,79
-Inhaler Dublin,60
-Habstrakt,51
-Sitting On Stacy,28
-BoyWithUke,75
-Cas,87
-Infinity Song,51
-Juanes,77
-Queens Of The Stone Age,71
-Elephant Gym,39
-Jordana,39
-Daddy Yankee,88
-Lee Youngji,66
-10cm,64
-Justin Timberlake,83
-Headband Andy,41
-Jakob,55
-ASTN,57
-Cheat Codes,67
-New Hope Club,51
-Franz Ferdinand,70
-Fletcher,67
-SNBRN,44
-Luke Bryan,77
-Alt-J,72
-Machine Girl,62
-Diddy,73
-Of Montreal,52
-Snake Pool,28
-Clean Bandit,77
-Bea Miller,69
-Evanescence,76
-Jai Wolf,53
-AJ Tracy,69
-TWS,64
-Remy Bond,49
-Greek,37
-Luke Combs,86
-Regina Song,59
-Breaking Benjamin,73
-Funtcase,1
-NCT127,77
-Joeyy,53
-Bridgette Calls Me Baby,52
-Juliet Ivy,45
-Durand Bernarr,53
-Yorushika,14
-Joey Valence & Brae,66
-Delorians,43
-Julia Jacklin,56
-Akon,84
-Kaytramine,55
-Janani K. Jha,57
-Sleigh Bells,47
-David Hugo,1
-Idles,63
-Ferxxo,39
-Naika,61
-Kordhell,72
-Sir,68
-Grupo Frontera,87
-Bombay Bicycle Club,57
-Trippie Redd,83
-Leanna Firestone,49
-Thundercat,72
-Tia Corine,2
-Maude Latour,48
-Amaare,0
-Ms. Lauryn Hill,74
-Allison Russell,52
-Marshmello,85
-Dean Lewis,77
-Asake,77
-RC Avenue,48
-EXID,52
-Q,86
-Aron May,46
-Lu Kala,50
-Britney Mason,63
-Ishan,30
-Maddison Bear,75
-Fall Out Boy,81
-Origami Angel,54
-Humbe,78
-Mark Ambor,77
-Bastille,76
-Violent Vira,62
-Avenoir,67
-Ak Bandamont,46
-Santana,72
-Foglake,60
-Nia Archives,59
-Suicide Boys,87
-Yung Kai,15
-Carter Ace,44
-VVKE,22
-Lane 8,61
-Bruce Springsteen,80
-Käärijä,59
-Ramon Vega,50
-Landon Conrath,52
-Ghastly,48
-V From BTS,86
-Forester,51
-Sam Fender,73
-Big Thief,71
-Rage Against The Machine,72
-Remo Drive,44
-Jessie Ware,60
-Wizkid,83
-Julien Baker,68
-Nico Moreno,56
-Dove Cameron,71
-Elijah Woods,66
-Natalie Jane,63
-The Killers,79
-Kevin Atwater,46
-Vinne,21
-Khamari,57
-BigXthaplug,83
-Estevie,52
-Eyedress,77
-Anomalie,50
-Artemas,80
-Luke Hemmings,55
-Zack Fox,52
-Yazida,35
-Claro,82
-Mannequin Pussy,56
-Des Rocs,56
-Chanel Pena,74
-Psychic Fever,48
-Jhariah,54
-Ween,59
-J Boog,60
-Masiwei,50
-Towa Bird,50
-Show Me The Body,45
-Lil Vada,46
-Green Day,83
-Chase Shakur,61
-Taylor Hill,50
-Jamie XX,66
-Hayley Kiyoko,58
-Borns,67
-Andy Grammer,70
-Cruza,56
-Essosa,49
-Loveless,56
-Brutalismus 3000,59
-Mustard Service,48
-Daniel Seavy,55
-Sleeping With Sirens,68
-HER,77
-No Vacation,58
-Patrick Brasca,58
-Big Naughty,59
-Lauren Spencer Smith,70
-Chris Lake,70
-The Foxtides,30
-Wave & Rome,14
-Jxdn,0
-Veeze,67
-Rainao,3
-Swedish House Mafia,77
-Shady Moon,56
-Los Angeles Azules,79
-Bulow,0
-Lexie Liu,56
-Slightly Stoopid,63
-Sufjan Stevens,73
-Yeek,49
-Moon Walker,50
-MGK,79
-Dance,65
-Honey Revenge,55
-Pinkii,50
-The Smiths,80
-Central Cee,82
-Danny Lux,16
-Rachel Chinouriri,61
-100gecs,59
-Xanubis,18
-EXO,71
-The Alchemist,74
-Bad Suns,57
-MF DOOM,78
-Aimyon,71
-Sarah Kang,57
-Jorja Smith,74
-Logic,75
-Denn.,65
-Young Nudy,71
-Duskus,57
-Cynthoni,46
-Jhayco,84
-Infinite Song,51
-Dylan Gosset,69
-Ryan B.,58
-LSD And The Search For God,49
-Sammy Rae And The Friends,55
-New West,71
-A DJ,89
-Justine Skye,65
-Will Wood,64
-Last Dinos,54
-Mora,83
-Violent Vera,62
-Meghan Trainor,82
-Morgan St Jean,51
-JR,36
-Rose,90
-Jennie,82
-eaJ,58
-2hollis,63
-sundial,46
-TOKiMONSTA,51
-JAWNY,66
-half•alive,62
+artist_name,formatted_name,popularity
+laufey,Laufey,85
+katseye,KATSEYE,74
+sabrina carpenter,Sabrina Carpenter,94
+beabadoobee,beabadoobee,83
+chappell roan,Chappell Roan,88
+tyler the creator,"Tyler, The Creator",93
+wave to earth,wave to earth,77
+grentperez,grentperez,66
+the marias,The Marías,81
+kendrick lamar,Kendrick Lamar,97
+keshi,keshi,78
+gracie abrams,Gracie Abrams,91
+sza,SZA,93
+wallows,Wallows,73
+bruno mars,Bruno Mars,96
+clairo,Clairo,82
+dominic fike,Dominic Fike,79
+don toliver,Don Toliver,88
+travis scott,Travis Scott,94
+niki,NIKI,79
+charli xcx,Charli xcx,87
+the weeknd,The Weeknd,96
+daniel caesar,Daniel Caesar,87
+tate mcrae,Tate McRae,86
+olivia rodrigo,Olivia Rodrigo,88
+malcolm todd,Malcolm Todd,68
+drake,Drake,97
+playboi carti,Playboi Carti,90
+noah kahan,Noah Kahan,86
+knock2,Knock2,63
+aespa,aespa,83
+kali uchis,Kali Uchis,86
+jpegmafia,JPEGMAFIA,69
+lana del rey,Lana Del Rey,92
+omar apollo,Omar Apollo,70
+joji,Joji,80
+role model,ROLE MODEL,68
+isoknock,ISOKNOCK,52
+brent faiyaz,Brent Faiyaz,86
+faye webster,Faye Webster,74
+isoxo,ISOxo,58
+pinkpantheress,PinkPantheress,78
+kaytranada,KAYTRANADA,73
+billie eilish,Billie Eilish,96
+kiss of life,KISS OF LIFE,76
+ken carson,Ken Carson,82
+steve lacy,Steve Lacy,83
+chase atlantic,Chase Atlantic,84
+frank ocean,Frank Ocean,89
+le sserafim,LE SSERAFIM,80
+zedd,Zedd,76
+taylor swift,Taylor Swift,100
+idk,IDK,59
+the driver era,THE DRIVER ERA,59
+lauv,Lauv,77
+illenium,ILLENIUM,72
+baby keem,Baby Keem,78
+conan gray,Conan Gray,81
+tv girl,TV Girl,84
+pitbull,Pitbull,86
+doechii,Doechii,80
+lizzy mcalpine,Lizzy McAlpine,74
+mike sherm,Mike Sherm,68
+john summit,John Summit,74
+troye sivan,Troye Sivan,79
+peso pluma,Peso Pluma,93
+magdalena bay,Magdalena Bay,69
+hozier,Hozier,86
+d4vd,d4vd,82
+doja cat,Doja Cat,87
+blxst,Blxst,69
+blood orange,Blood Orange,70
+jhene aiko,Jhené Aiko,80
+dpr ian,DPR IAN,68
+renee rapp,Reneé Rapp,69
+new jeans,NewJeans,82
+j cole,J. Cole,87
+victoria monet,Victoria Monét,68
+lyn lapid,Lyn Lapid,64
+kehlani,Kehlani,77
+dom dolla,Dom Dolla,72
+porter robinson,Porter Robinson,65
+mac demarco,Mac DeMarco,82
+tinashe,Tinashe,73
+thee sacred souls,Thee Sacred Souls,71
+tame impala,Tame Impala,81
+rex orange county,Rex Orange County,76
+lil tecca,Lil Tecca,83
+dabin,Dabin,58
+fred again,Fred again..,79
+tomorrow x together,TOMORROW X TOGETHER,81
+zach bryan,Zach Bryan,90
+remi wolf,Remi Wolf,67
+hatsune miku,Hatsune Miku,68
+bryson tiller,Bryson Tiller,83
+jid,JID,79
+thuy,thủy,65
+del water gap,Del Water Gap,63
+tyla,Tyla,79
+arctic monkeys,Arctic Monkeys,88
+luke chiang,Luke Chiang,64
+william black,William Black,55
+childish gambino,Childish Gambino,81
+lucki,LUCKI,80
+glass animals,Glass Animals,77
+flo milli,Flo Milli,74
+cigarettes after sex,Cigarettes After Sex,87
+the kid laroi,The Kid LAROI,85
+amine,Aminé,67
+vince staples,Vince Staples,70
+slander,SLANDER,67
+coin,COIN,61
+benson boone,Benson Boone,85
+xg,XG,73
+cuco,Cuco,70
+fuerza regida,Fuerza Regida,91
+denzel curry,Denzel Curry,75
+seventeen,SEVENTEEN,81
+bbno$,bbno$,74
+ksi,KSI,71
+the strokes,The Strokes,78
+pierce the veil,Pierce The Veil,76
+partynextdoor,PARTYNEXTDOOR,85
+rocco,Rocco,63
+kanye west,Kanye West,93
+still woozy,Still Woozy,68
+djo,Djo,76
+wasia project,Wasia Project,59
+flo,Florence + The Machine,78
+yeat,Yeat,83
+smino,Smino,70
+snow strippers,Snow Strippers,69
+metro boomin,Metro Boomin,90
+asap rocky,A$AP Rocky,86
+the backseat lovers,The Backseat Lovers,67
+lil uzi vert,Lil Uzi Vert,86
+yuno miles,Yuno Miles,53
+bladee,Bladee,70
+flipturn,flipturn,61
+mitski,Mitski,84
+future,Future,93
+shawn mendes,Shawn Mendes,85
+ravyn lenae,Ravyn Lenae,63
+megan thee stallion,Megan Thee Stallion,83
+enhypen,ENHYPEN,82
+yoasobi,YOASOBI,77
+rauw alejandro,Rauw Alejandro,94
+backseat lovers,The Backseat Lovers,67
+bad bunny,Bad Bunny,96
+cage the elephant,Cage The Elephant,76
+dijon,Dijon,60
+rina sawayama,Rina Sawayama,59
+jay park,Jay Park,67
+kesha,Kesha,82
+junior h,Junior H,91
+nav,Navaan Sandhu,68
+friday pilots club,Friday Pilots Club,60
+weston estate,Weston Estate,54
+post malone,Post Malone,90
+phoebe bridgers,Phoebe Bridgers,80
+khalid,Khalid,85
+eaj,eaJ,58
+anderson paak,Anderson .Paak,78
+paramore,Paramore,80
+destroy lonely,Destroy Lonely,75
+hojean,Hojean,57
+ateez,ATEEZ,76
+men i trust,Men I Trust,72
+peach pit,Peach Pit,64
+stray kids,Stray Kids,88
+between friends,BETWEEN FRIENDS,61
+subtronics,Subtronics,65
+halsey,Halsey,83
+young miko,Young Miko,80
+maneskin,Måneskin,80
+japanese breakfast,Japanese Breakfast,58
+bts,BTS,87
+nueve lio,Nueve Lio,48
+ricky montgomery,Ricky Montgomery,72
+deftones,Deftones,82
+linkin park,Linkin Park,93
+the dare,The Dare,60
+glorilla,GloRilla,83
+julie,julie,57
+big time rush,Big Time Rush,65
+joey bada$$,Joey Bada$$,74
+ian,ian,72
+fisher,FISHER,78
+jvke,JVKE,77
+kanye,Kanye West,93
+karol g,KAROL G,91
+set it off,Set It Off,68
+ice spice,Ice Spice,75
+2hollis,2hollis,63
+girl in red,girl in red,77
+suki waterhouse,Suki Waterhouse,72
+the chainsmokers,The Chainsmokers,83
+p1harmony,P1Harmony,64
+dayglow,Dayglow,65
+finneas,FINNEAS,71
+coldplay,Coldplay,91
+jungle,Jungle,75
+twice,TWICE,82
+maisie peters,Maisie Peters,64
+umi,UMI,63
+armnhmr,ARMNHMR,48
+imagine dragons,Imagine Dragons,89
+giveon,Giveon,78
+jackson wang,Jackson Wang,62
+morgan wallen,Morgan Wallen,90
+yung lean,Yung Lean,68
+bixby,bixby,58
+declan mckenna,Declan McKenna,68
+teezo touchdown,Teezo Touchdown,73
+jean dawson,Jean Dawson,58
+alex g,Alex G,78
+5 seconds of summer,5 Seconds of Summer,77
+21 savage,21 Savage,89
+feid,Feid,93
+rich brian,Rich Brian,67
+sexyy red,Sexyy Red,82
+stephen sanchez,Stephen Sanchez,76
+lil yachty,Lil Yachty,81
+willow,WILLOW,72
+the japanese house,The Japanese House,63
+rose,ROSÉ,90
+bibi,BIBI,67
+good kid,Good Kid,66
+vacations,Vacations,74
+starfall,starfall,60
+the rose,The Rose,63
+summer walker,Summer Walker,82
+shygirl,Shygirl,63
+alice phoebe lou,Alice Phoebe Lou,64
+leon thomas,Leon Thomas,68
+adele,Adele,87
+students,Students,47
+mico,MICO,56
+aurora,AURORA,77
+wooli,Wooli,59
+ruel,Ruel,64
+king krule,King Krule,62
+danny ocean,Danny Ocean,80
+ski mask the slump god,Ski Mask The Slump God,73
+calvin harris,Calvin Harris,86
+sunkis,sunkis,61
+riize,RIIZE,67
+mxmtoon,mxmtoon,65
+mkgee,Mk.gee,68
+system of a down,System Of A Down,84
+raye,RAYE,80
+junny,JUNNY,57
+tems,Tems,78
+dpr live,DPR LIVE,60
+lady gaga,Lady Gaga,92
+half alive,half•alive,62
+madison beer,Madison Beer,75
+eminem,Eminem,93
+luna li,Luna Li,52
+loona,LOONA,55
+daniel seavey,Daniel Seavey,55
+eric nam,Eric Nam,55
+addison rae,Addison Rae,74
+day6,DAY6,70
+grimes,Grimes,70
+excision,Excision,61
+emei,Emei,65
+surfaces,Surfaces,66
+foushee,Fousheé,62
+it's murph,it's murph,62
+bakar,Bakar,70
+kid cudi,Kid Cudi,80
+ethel cain,Ethel Cain,68
+vance joy,Vance Joy,78
+psy,PSY,65
+muna,MUNA,58
+nmixx,NMIXX,67
+nct,NCT 127,69
+latin mafia,LATIN MAFIA,76
+blackbear,blackbear,76
+justin bieber,Justin Bieber,92
+the neighborhood,The Neighbourhood,86
+maggie rogers,Maggie Rogers,71
+waterparks,Waterparks,60
+cris mj,Cris Mj,87
+laundry day,LAUNDRY DAY,46
+dannylux,DannyLux,73
+knox,Knox,57
+jordan ward,Jordan Ward,63
+charlie puth,Charlie Puth,81
+becky g,Becky G,79
+lany,LANY,78
+ajr,AJR,73
+weezer,Weezer,76
+rihanna,Rihanna,92
+boynextdoor,BOYNEXTDOOR,69
+my chemical romance,My Chemical Romance,81
+alec benjamin,Alec Benjamin,77
+gigi perez,Gigi Perez,81
+orion sun,Orion Sun,67
+destin conrad,DESTIN CONRAD,57
+ado,Ado,77
+odesza,ODESZA,69
+fiji blue,Fiji Blue,57
+benee,BENEE,65
+jack johnson,Jack Johnson,76
+dua lipa,Dua Lipa,89
+ginger root,Ginger Root,55
+mother mother,Mother Mother,73
+rini,RINI,60
+amaarae,Amaarae,68
+vampire weekend,Vampire Weekend,67
+dhruv,Dhruv,70
+aaron may,Aaron May,72
+royel otis,Royel Otis,73
+dean,Dean Lewis,77
+jesse barrera,Jesse Barrera,62
+paris texas,Paris Texas,52
+cavetown,Cavetown,71
+g-idle,(G)I-DLE,75
+isaiah rashad,Isaiah Rashad,70
+gunna,Gunna,88
+onerepublic,OneRepublic,85
+harry styles,Harry Styles,85
+kendrick lamar duckworth,Kendrick Lamar,97
+notd,NOTD,62
+ecco2k,Ecco2k,62
+disco lines,Disco Lines,61
+i don’t know,I DONT KNOW HOW BUT THEY FOUND ME,62
+peggy gou,Peggy Gou,67
+mariah the scientist,Mariah the Scientist,69
+cupcakke,cupcakKe,58
+sundial,sundial,46
+audrey nuna,AUDREY NUNA,54
+seven lions,Seven Lions,61
+matt maltese,Matt Maltese,70
+any country,The Country Any Way Collective,2
+jomm,Jimmy Eat World,70
+jkrs collective,JKRS,62
+david kushner,David Kushner,77
+xavi,Xavier Wulf,72
+tokischa,Tokischa,72
+snoop dogg,Snoop Dogg,86
+rl grime,RL Grime,63
+bruno major,Bruno Major,67
+hippo campus,Hippo Campus,59
+bring me the horizon,Bring Me The Horizon,81
+tiffany day,Tiffany Day,48
+jeremy zucker,Jeremy Zucker,70
+riovaz,Riovaz,63
+ed sheeran,Ed Sheeran,90
+alex warren,Alex Warren,78
+warren hue,Warren Hue,50
+matroda,Matroda,60
+duckwrth,Duckwrth,60
+aidan bissett,Aidan Bissett,55
+earl sweatshirt,Earl Sweatshirt,71
+twenty one pilots,Twenty One Pilots,85
+t-pain,T-Pain,80
+sasha alex sloan,Sasha Alex Sloan,71
+roddy ricch,Roddy Ricch,80
+sun room,Sun Room,47
+bazzi,Bazzi,71
+jimmy eat world,Jimmy Eat World,70
+myke towers,Myke Towers,90
+vansire,Vansire,68
+steve aoki,Steve Aoki,74
+olivia dean,Olivia Dean,72
+yves tumor,Yves Tumor,58
+said the sky,Said The Sky,56
+ca7riel & paco amoroso,CA7RIEL & Paco Amoroso,68
+100 gecs,100 gecs,59
+claire rosinkranz,Claire Rosinkranz,58
+rico nasty,Rico Nasty,64
+ag club,AG Club,47
+boy pablo,boy pablo,60
+nle choppa,NLE Choppa,81
+boygenius,boygenius,68
+rainbow kitten surprise,Rainbow Kitten Surprise,72
+goth babe,Goth Babe,62
+foster the people,Foster The People,74
+chase & status,Chase & Status,72
+6lack,6LACK,74
+denise julia,Denise Julia,67
+nettspend,Nettspend,71
+ericdoa,ericdoa,62
+the smashing pumpkins,The Smashing Pumpkins,75
+miguel,Miguel,81
+blink 182,blink-182,79
+inhaler,Inhaler,60
+the crane wives,The Crane Wives,64
+ha vay,Ha Vay,44
+travis,Travis Scott,94
+dreamcatcher,Dreamcatcher,60
+schoolboy q,ScHoolboy Q,78
+em beihold,Em Beihold,71
+el alfa,El Alfa,79
+eem triplin,Eem Triplin,62
+red hot chili peppers,Red Hot Chili Peppers,84
+the last dinner party,The Last Dinner Party,66
+tommy richman,Tommy Richman,78
+mt joy,Mt. Joy,71
+the garden,The Garden,58
+stayc,STAYC,63
+zayn,ZAYN,79
+dj mandy,DJ Mandy,5
+martin garrix,Martin Garrix,77
+wisp,Wisp,64
+peach tree rascals,Peach Tree Rascals,56
+wang ok,王OK,47
+no candy,No Candy,3
+the drums,The Drums,64
+johnny orlando,Johnny Orlando,58
+arca,Arcane,90
+niall horan,Niall Horan,76
+izna,izna,62
+slowdive,Slowdive,65
+crumb,Crumb,64
+melanie martinez,Melanie Martinez,79
+teddy swims,Teddy Swims,87
+leon bridges,Leon Bridges,75
+dpr ian/live,DPR IAN,68
+sublime,Sublime,73
+the linda lindas,The Linda Lindas,48
+tool,TOOL,72
+tupac,2Pac,82
+mcr,My Chemical Romance,81
+kiana lede,Kiana Ledé,63
+no candy band,Matthew Good Band,43
+radiohead,Radiohead,85
+nct dream,NCT DREAM,77
+alan walker,Alan Walker,82
+hybs,HYBS,68
+yerin baek,Yerin Baek,58
+charlie burg,Charlie Burg,53
+christian kuria,Christian Kuria,58
+nicki minaj,Nicki Minaj,87
+deadmau5,deadmau5,68
+bren joy,Bren Joy,63
+leith ross,Leith Ross,60
+the buttertones,The Buttertones,51
+neon trees,Neon Trees,66
+connor price,Connor Price,74
+berry blue,berryblue,46
+coco & clair clair,Coco & Clair Clair,60
+levity,Levity,52
+kevin kaarl,Kevin Kaarl,75
+artms,ARTMS,51
+poppy,Poppy,68
+starset,STARSET,67
+joyce manor,Joyce Manor,57
+mazzy star,Mazzy Star,72
+the wrecks,The Wrecks,53
+caroline polacheck,Caroline Polachek,64
+lil wayne,Lil Wayne,89
+russ,Russ,77
+macklemore,Macklemore,78
+mgmt,MGMT,76
+lin manuel miranda,Lin-Manuel Miranda,75
+the living tombstone,The Living Tombstone,72
+kidsnot$aints,Kidsnot$aints.,48
+montell fish,Montell Fish,77
+good boy daisy,Good Boy Daisy,38
+bailey zimmerman,Bailey Zimmerman,77
+turnstile,Turnstile,60
+jeff bernat,Jeff Bernat,61
+chevy,Chevy,60
+amelia moore,Amelia Moore,54
+lexa gates,Lexa Gates,58
+marina,MARINA,74
+masego,Masego,72
+ross lynch,Ross Lynch,60
+ashnikko,Ashnikko,75
+eslabon armado,Eslabon Armado,79
+two door cinema club,Two Door Cinema Club,71
+sean paul,Sean Paul,82
+beyonce,Beyoncé,87
+korn,Korn,78
+car seat headrest,Car Seat Headrest,63
+young the giant,Young the Giant,68
+chief keef,Chief Keef,78
+$not,$NOT,68
+chelsea cutler,Chelsea Cutler,68
+kalan frfr,Kalan.FrFr,56
+chicano batman,Chicano Batman,47
+p-lo,P-Lo,57
+herencia de patrones,Herencia de Patrones,68
+voila,VOILÀ,69
+fontaines dc,Fontaines D.C.,73
+tory lanez,Tory Lanez,83
+shoreline mafia,Shoreline Mafia,70
+usher,USHER,83
+inner wave,Inner Wave,50
+snow wife,Snow Wife,57
+fly by midnight,Fly By Midnight,62
+yung gravy,Yung Gravy,68
+rammstein,Rammstein,81
+odd mob,Odd Mob,64
+madeon,Madeon,56
+one ok rock,ONE OK ROCK,73
+gorillaz,Gorillaz,81
+caamp,Caamp,69
+erykah badu,Erykah Badu,69
+level up,LEVEL UP,48
+ritt momney,Ritt Momney,55
+babymetal,BABYMETAL,70
+solange,Solange,62
+jojo siwa,JoJo Siwa,47
+anson seabra,Anson Seabra,65
+88rising,88rising,68
+kygo,Kygo,82
+alvvays,Alvvays,59
+ariana grande,Ariana Grande,96
+hotel ugly,Hotel Ugly,77
+tori kelly,Tori Kelly,71
+frex,Frex,46
+roar,Roar,67
+almost monday,almost monday,57
+pryvt,PRYVT,56
+swae lee,Swae Lee,81
+gemini,GEMINI,57
+ive,IVE,74
+coco jones,Coco Jones,65
+lorde,Lorde,78
+thomas day,Thomas Day,53
+empire of the sun,Empire Of The Sun,78
+catfish and the bottlemen,Catfish and the Bottlemen,66
+bryant barnes,Bryant Barnes,68
+sob x rbe,SOB X RBE,54
+panchiko,Panchiko,63
+glaive,glaive,64
+honne,HONNE,65
+the arkangels,The Arkangels,0
+lil baby,Lil Baby,87
+jstjr,JSTJR,44
+treaty oak revival,Treaty Oak Revival,76
+ty dolla sign,Ty Dolla $ign,84
+sarah kinsley,Sarah Kinsley,54
+summrs,Summrs,66
+ohgeesy,OHGEESY,70
+saint motel,Saint Motel,64
+the red pears,The Red Pears,45
+bad omens,Bad Omens,75
+lancey foux,Lancey Foux,61
+cleo sol,Cleo Sol,69
+kikuo,Kikuo,62
+diljit dosanjh,Diljit Dosanjh,82
+070 shake,070 Shake,71
+myles smith,Myles Smith,79
+ayesha erotica,Ayesha Erotica,72
+lola young,Lola Young,80
+colde,Colde,62
+arijit singh,Arijit Singh,91
+dave,Dave,78
+joshua bassett,Joshua Bassett,59
+zerobaseone,ZEROBASEONE,66
+los hermanos mendoza,Los Hermanos Mendoza,34
+briston maroney,Briston Maroney,60
+johnny huynh,Johnny Huynh,51
+audien,Audien,56
+sara landry,Sara Landry,60
+noa,Noah Kahan,86
+crankdat,Crankdat,53
+odetari,Odetari,80
+nicky youre,Nicky Youre,69
+trivecta,Trivecta,51
+fka twigs,FKA twigs,66
+311,311,63
+folk bitch trio,Folk Bitch Trio,36
+"the army, the navy","The Army, The Navy",50
+megan moroney,Megan Moroney,77
+shaq aka dj diesel,Shaquille O'Neal,49
+the band light,THE BAND LIGHT,21
+isabel larosa,Isabel LaRosa,76
+fetty wap,Fetty Wap,71
+$uicideboy$,$uicideboy$,87
+michael jackson,Michael Jackson,85
+jazmine sullivan,Jazmine Sullivan,67
+bon jovi,Bon Jovi,80
+a boogie wit da hoodie,A Boogie Wit da Hoodie,79
+jon bellion,Jon Bellion,67
+raveena,Raveena,57
+kim petras,Kim Petras,75
+beach bunny,Beach Bunny,70
+jennie,JENNIE,82
+muse,Muse,77
+polyphia,Polyphia,62
+mickey darling,Mickey Darling,50
+brockhampton,BROCKHAMPTON,65
+m83,M83,72
+tiesto,Tiësto,84
+feeble little horse,feeble little horse,48
+late night drive home,late night drive home,55
+ryan beatty,Ryan Beatty,53
+san holo,San Holo,56
+pierre bourne,Pi’erre Bourne,62
+phantogram,Phantogram,67
+shakira,Shakira,88
+cannons,Cannons,62
+the front bottoms,The Front Bottoms,64
+galantis,Galantis,70
+the lumineers,The Lumineers,79
+they might be giants,They Might Be Giants,59
+rawayana,Rawayana,71
+rosalia,ROSALÍA,80
+mason ramsey,Mason Ramsey,53
+greek,greek,51
+teo,teo glacier,58
+vintage culture,Vintage Culture,74
+naika,Naïka,61
+eve,Eve,69
+s z a,The Beatles,86
+janelle monae,Janelle Monáe,68
+yorushika,ヨルシカ,74
+eliza doolittle,Eliza Doolittle,68
+bears in trees,Bears In Trees,43
+sonder,Sonder,74
+idles,IDLES,63
+the neighourhood,The Neighbourhood,86
+day wave,Day Wave,49
+ryan b,Ryan Bingham,60
+tabber,Tabber,51
+john k,John K,55
+britney spears,Britney Spears,84
+kolohe kai,Kolohe Kai,60
+sir,Sir Mix-A-Lot,68
+isaac dunbar,Isaac Dunbar,48
+charlotte lawrence,Charlotte Lawrence,57
+carly rae jepsen,Carly Rae Jepsen,73
+teo glacier,teo glacier,58
+deng dian,邓典果DDG,34
+marshmellow,Marshmello,85
+t+pazolite,t+pazolite,47
+ashe,Ashe,70
+the beaches,The Beaches,62
+gable price and friends,Gable Price and Friends,46
+the altons/ superheaven,The Altons,52
+miles,Miles Davis,65
+forester,Forester,51
+milena,Milena,45
+katy perry,Katy Perry,86
+luke bryan,Luke Bryan,77
+graice abrams,Gracie Abrams,91
+ella musch,Ella Hush,47
+nico play,Nico Play,46
+iv of spades,IV Of Spades,66
+surf curse,Surf Curse,75
+jessie reyez,Jessie Reyez,68
+jordy searcy,Jordy Searcy,49
+remo drive,Remo Drive,44
+tritonal,Tritonal,54
+grouplove,GROUPLOVE,64
+stella jang,Stella Jang,50
+louis the child,Louis The Child,59
+femtanyll,femtanyl,63
+meduza,MEDUZA,75
+kishi bashi,Kishi Bashi,53
+coastal club,Coastal Club,37
+dodie,dodie,62
+lucy,Lucy Dacus,69
+ashsocozy,ASHSOCOZY,21
+ozuna,Ozuna,87
+black party,bLAck pARty,46
+imase,imase,66
+enrique iglesias,Enrique Iglesias,79
+blk odyssy,BLK ODYSSY,57
+black pumas,Black Pumas,64
+yung heazy,Yung Heazy,27
+gale,galen tipton,43
+adrianne lenker,Adrianne Lenker,75
+porcupine tree,Porcupine Tree,56
+yung kai,yung kai,73
+homixide gang,Homixide Gang,65
+kanaboon,KANA-BOON,62
+seori,Seori,58
+phoneboy,Phoneboy,50
+nathan sharp,Nathan Sharp,1
+saint luna,St. Lunatics,35
+chloe x halle,Chloe x Halle,54
+jay chou,Jay Chou,78
+ivan cornejo,Ivan Cornejo,79
+blvck svm,Blvck Svm,56
+bigxthaplug,BigXthaPlug,83
+neyo,Ne-Yo,83
+luna day,Luna Day,34
+kire,KIRE,45
+abel tesfaye,Abel Tesfaye,5
+the moss,The Moss,48
+sheff g,Sheff G,70
+earthgang,EARTHGANG,64
+milky chance,Milky Chance,74
+alessi rose,Alessi Rose,51
+big shaq,Big Shaq,44
+john mayer,John Mayer,78
+the clash,The Clash,72
+kelela,Kelela,53
+sade,Sade,77
+okay kaya,Okay Kaya,50
+masiwei,Masiwei,50
+juliet ivy,Juliet Ivy,45
+tokimonsta,TOKiMONSTA,51
+dora jar,Dora Jar,50
+bungalow collect,Bungalow Collect,39
+soul glo,Soul Glo,33
+meet me @ the alter,Meet Me @ The Altar,41
+nessa barrett,Nessa Barrett,74
+sean combs,Diddy,73
+haarper,HAARPER,66
+dr. dog,Dr. Dog,65
+lil vada,Lil Vada,46
+no vacation,No Vacation,58
+labyrinth,Labrinth,78
+her new knife,Her New Knife,36
+clinton kane,Clinton Kane,63
+diljit,Diljit Dosanjh,82
+erika de casier,Erika de Casier,48
+roe kapara,Roe Kapara,50
+ayybo,AYYBO,60
+valley,Valley,59
+lucy dacus,Lucy Dacus,69
+swmrs,SWMRS,43
+zack fox,Zack Fox,52
+lil nas x,Lil Nas X,76
+neon killers,Neon Trees,66
+des rocs,Des Rocs,56
+banda (any kind),Banda El Recodo,74
+any singer,ANY,47
+suburb talks,Savv4x,47
+mike,mike.,64
+tigercub,Tigercub,42
+editors,Editors,54
+joechillworld,JPEGMAFIA,69
+alfie templeman,Alfie Templeman,53
+money bag yo,Moneybagg Yo,77
+binki,binki,48
+gryffin,Gryffin,69
+alice lou phoebe,Alice Phoebe Lou,64
+beach house,Beach House,74
+swedish house mafia,Swedish House Mafia,77
+cloonee,Cloonee,62
+zekk,Zekk,39
+sofia valdez,Sofía Valdés,45
+the alchemist,The Alchemist,74
+roman candle,Roman Candle,30
+mexican slum rats,Mexican Slum Rats,45
+rei ami,REI AMI,55
+stan walker,Stan Walker,53
+sarah kang,Sarah Kang,57
+mr 305,Pitbull,86
+foo fighters,Foo Fighters,78
+shreya ghosal,Shreya Ghoshal,85
+alex sampson,Alex Sampson,55
+tego calderon,Tego Calderón,73
+bb juelz,Juelz Santana,65
+blossom,Blossoms,60
+go,Gorillaz,81
+the boyz,THE BOYZ,61
+suchmos,Suchmos,54
+kero kero bonito,Kero Kero Bonito,56
+s,SZA,93
+minds eye,Mind’s Eye,48
+blondshell,Blondshell,49
+logan paul,Logan Paul,38
+n./n./n,N.N. (Nada A.K.A. Nadie),0
+morgan st jean,Morgan St. Jean,51
+woosung,WOOSUNG,60
+bones,BONES,75
+celine,Céline Dion,80
+fuji kaze,Fujii Kaze,74
+summer salt,Summer Salt,50
+shura,Shura,45
+rayen lenae,Macklemore & Ryan Lewis,73
+iu,IU,71
+kyndal inskeep,Kyndal Inskeep,41
+maybe candy,Duvy,47
+matt garza,Matt Marantz Quartet,52
+babytron,BabyTron,70
+andrew (dj drew) alexander,Andrew Rayel,50
+sir chloe,Sir Chloe,63
+bizarap,Bizarrap,82
+the vanished people,The Vanished People,55
+lovejoy,Lovejoy,59
+yeah yeah yeahs,Yeah Yeah Yeahs,70
+lil mabu,Lil Mabu,62
+gareth.t,Gareth.T,55
+better love,Better Lovers,46
+john oliver,John Oliver,41
+eartheater,Eartheater,52
+romy,Romy,60
+arrows in action,Arrows in Action,55
+destroy boys,Destroy Boys,60
+hardy,HARDY,75
+pavement,Pavement,60
+king triton,Norm Lewis as King Triton,23
+normani,Normani,70
+jason mraz,Jason Mraz,73
+snoh alegra,Snoh Aalegra,67
+mac carroll,Mackin Carroll,0
+chris james,Chris James,59
+khruangbin,Khruangbin,72
+black eyed peas,Black Eyed Peas,81
+tyga,Tyga,79
+mndr,MNDR,44
+lil skies,Lil Skies,68
+common kings,Common Kings,57
+andre 3000,André 3000,68
+yg,YG,74
+rooler,Rooler,61
+big thief so everyone can be big sad,Big Thief,71
+avenged sevenfold,Avenged Sevenfold,78
+gareth emery,Gareth Emery,59
+black kray / sickboyrari,Black Kray aka Sickboyrari,20
+any rock band,Sam Roberts Band,44
+jenna raine,Jenna Raine,61
+lelo,Lelo,57
+no idea,Don Toliver,88
+laszewo,Łaszewo,53
+john travolta,John Travolta,66
+quadeca,Quadeca,54
+nas,Nas,74
+bowling for soup,Bowling For Soup,63
+amindi,Amindi,45
+white collars,The White Collars,11
+xavier wulf,Xavier Wulf,72
+austin moon,Austin Moon,53
+corbyn besson,Corbyn Besson,45
+joe p,Joe P,51
+zelooperz,Zelooperz,49
+wuki,Wuki,61
+chloe bailey,Chlöe,62
+pc,Pcf Man Man,36
+the smile,The Smile,59
+natanael cano,Natanael Cano,90
+la cuadrilla,La Cuadrilla Oficial,47
+tove lo,Tove Lo,75
+dream,Dream Theater,64
+fleshwater,Fleshwater,56
+jay eazy,Jay Eazy,46
+faime,Faime,48
+don omar,Don Omar,85
+julieta venegas,Julieta Venegas,77
+cautious clay,Cautious Clay,56
+zoe wees,Zoe Wees,66
+boy next door,BOYNEXTDOOR,69
+max,Max McNown,71
+shaboozey,Shaboozey,81
+sammy rash,sammy rash,57
+jj lin,JJ Lin,68
+strings and heart,Strings And Heart,54
+the birthday massacre,The Birthday Massacre,49
+the alton’s,The Altons,52
+thatmexicanot,That Mexican OT,72
+lord huron,Lord Huron,78
+ian asher,Ian Asher,64
+yes candy,yes/and,37
+keenan te,Keenan Te,63
+gojira,Gojira,66
+hailey walsh,Hailey Whitters,57
+black tiger sex machine,Black Tiger Sex Machine,49
+mau p,Mau P,64
+wax motif,Wax Motif,53
+friend,Garth Brooks,54
+naomi jon,Naomi Jon,45
+onew,ONEW,50
+the guys from whiplash,Jean Leloup,46
+disclosure,Disclosure,76
+yaeji,Yaeji,52
+hiatus kaiyote,Hiatus Kaiyote,58
+zack tabudlo,Zack Tabudlo,68
+james blake,James Blake,71
+laila,Laila!,59
+joy crookes,Joy Crookes,59
+flyna boss,Flyana Boss,52
+blackpink,BLACKPINK,80
+emilia mernes,Emilia,81
+itzy,ITZY,72
+adrienne lenker,Adrianne Lenker,75
+red velvet,Red Velvet,71
+horsegiirl,horsegiirL,50
+vulfpecke,Vulfpeck,60
+bree runway,Bree Runway,49
+metallica,Metallica,84
+evann mcintosh,Evann McIntosh,36
+home,Home,60
+rufus de sol,RÜFÜS DU SOL,76
+bss,BSS,61
+idkhow,I DONT KNOW HOW BUT THEY FOUND ME,62
+jack black,Jack Black,53
+bleachers,Bleachers,72
+dylan,Dylan Gossett,69
+black skirts,The Black Skirts,58
+jboog,J Boog,60
+belanova and luis miguel,Belanova,71
+dana and alden,Dana and Alden,46
+ozi,ØZI,58
+crush,Crush,65
+kylie minogue,Kylie Minogue,76
+larry june,Larry June,67
+palace,Palace,61
+creepy nuts,Creepy Nuts,77
+sleep token,Sleep Token,78
+father john misty,Father John Misty,72
+reed wonder & aurora olivas,Reed Wonder,65
+dogpark,Dogpark,42
+local people,Local Village People,0
+ley soul,Ley Soul,54
+singing,Singing Craig,0
+pearl jam,Pearl Jam,77
+a baddie,Alain Barrière,43
+joe hisaishi,Joe Hisaishi,71
+joe maynor,Joe Maynor,34
+six sex,Six Sex,48
+svchucky,SvChucky,0
+any kpop,ROSÉ,90
+washed out,Washed Out,53
+"black country, new road","Black Country, New Road",55
+volbeat,Volbeat,70
+layz,LAYZ,42
+michael cera,Michael Cera,57
+front bottoms,The Front Bottoms,64
+renforshort,renforshort,46
+woodz,WOODZ,58
+2ne1,2NE1,65
+humbe,HUMBE,78
+1nlonly,1nonly,70
+mark ambor,Mark Ambor,77
+israel’s arcade,Israel's Arcade,30
+scowl,Scowl,47
+a$ap ferg,A$AP Ferg,73
+zoe- mexican rock band,Zoé,74
+mike posner,Mike Posner,71
+fiona apple,Fiona Apple,67
+claudia,Claudia Bouvette,41
+ningning from aespa,aespa,83
+lunay,Lunay,72
+dr. fresch,Dr. Fresch,54
+mitis,MitiS,49
+stand atlantic,Stand Atlantic,56
+cobra man,Cobra Man,39
+lamp,Lamp,65
+micah dailey white,Micah Dailey-White,44
+chance the rapper,Chance the Rapper,75
+drug dealer,Drugdealer,57
+guns n'roses,Guns N' Roses,81
+kashbocks,Kashbocks,23
+wendy from red velvet,WENDY,66
+mavi,MAVI,61
+eden,EDEN,61
+quavo,Quavo,81
+sofaygo,SoFaygo,61
+koffee,Original Koffee,58
+jessica baio,Jessica Baio,59
+johnny stimson,Johnny Stimson,57
+pentatonix,Pentatonix,84
+quinnie,quinnie,53
+kompany,Kompany,48
+hotel books,Hotel Books,39
+grouper,Grouper,63
+mexican ot,That Mexican OT,72
+youra,youra,47
+avicii,Avicii,81
+xanakin skywok,XANAKIN SKYWOK,55
+joost klein,Joost,67
+waylon wyatt,Waylon Wyatt,67
+tony22,Tony22,40
+gorgon city,Gorgon City,63
+crystal catsles,Crystal Castles,73
+wolf alice,Wolf Alice,61
+the crying nudes,The Crying Nudes,41
+odoriko,Vaundy,75
+stick figure,Stick Figure,69
+the dip,The Dip,60
+no guidnce,No Guidnce,50
+rusted root,Rusted Root,57
+laidback luke,Laidback Luke,58
+nine inch nails,Nine Inch Nails,68
+vaultboy,vaultboy,62
+cults,Cults,72
+holly humberstone,Holly Humberstone,58
+skepta,Skepta,75
+origami angel,Origami Angel,54
+project pat,Project Pat,68
+maddison bear,Madison Beer,75
+juanes,Juanes,77
+lil shine,Lil Shine,45
+rad museum,Rad Museum,51
+hieuthuhai,HIEUTHUHAI,71
+emotional oranges,Emotional Oranges,58
+billy joel,Billy Joel,79
+inhaler dublin,Inhaler,60
+habstrakt,Habstrakt,51
+sitting on stacy,Sitting on Stacy,28
+boywithuke,BoyWithUke,75
+infinity song,Infinity Song,51
+queens of the stone age,Queens of the Stone Age,71
+madeline the person,Madeline The Person,50
+elephant gym,Elephant Gym,39
+bino rideaux,Bino Rideaux,55
+chris stussy,Chris Stussy,59
+balu brigada,Balu Brigada,55
+allison ponthier,Allison Ponthier,51
+crawlers,Crawlers,48
+zutomayo,ZUTOMAYO,69
+jeff rosenstock,Jeff Rosenstock,50
+nathan evans,Nathan Evans,67
+poets of the fall,Poets of the Fall,51
+kim doyoung (nct),DOYOUNG,56
+natalia lafourcade,Natalia Lafourcade,74
+ava max,Ava Max,82
+the walter’s,Herbert von Karajan,71
+shotgun willy,Shotgun Willy,60
+olivia rodriques,Olivia Rodrigo,88
+george clanton,George Clanton,60
+ciara,Ciara,72
+allen stone,Allen Stone,54
+lebron james,Ja Morant,10
+khloe rose,Khloe Rose,48
+brb.,brb.,59
+dpr,DPR IAN,68
+re6ce,re6ce,56
+the hails,The Hails,49
+tape b,Tape B,56
+ella mai,Ella Mai,72
+tobi lou,tobi lou,57
+daniel jikal,다니엘 지칼,38
+one direction,One Direction,88
+xenia,Xenia,43
+elsa and emilie,Elsa & Emilie,46
+upsahl,UPSAHL,59
+rich amiri,Rich Amiri,73
+yung nudy,Young Nudy,71
+aeden alvarez,Aeden Alvarez,21
+ethan kozberg :d,Ethan Ross,55
+tisakorean,TisaKorean,52
+crying city,Crying City,50
+cobra starship,Cobra Starship,60
+lcd soundsystem,LCD Soundsystem,62
+marina and the diamonds,MARINA,74
+the backfires,The Backfires,35
+blue hour,TOMORROW X TOGETHER,81
+gucci mane,Gucci Mane,78
+the dirty heads,Dirty Heads,64
+crane wives,The Crane Wives,64
+jimin,Jimin,88
+quinn xcii,Quinn XCII,65
+iration,Iration,56
+sleepy hallow,Sleepy Hallow,78
+john cena,John Cena,48
+jordan sweeto,Jordan Sweeto,28
+boy harsher,Boy Harsher,55
+the eagles,Eagles,79
+kenny mason,Kenny Mason,62
+kard,Kardinal Offishall,64
+alexandria savior,Alexandra Savior,50
+snail mail,Snail Mail,47
+sure sure,Sure Sure,50
+john lennon,John Lennon,78
+the score,The Score,69
+grupo marca registrada,Grupo Marca Registrada,80
+social distortion,Social Distortion,57
+isabella lovestory,Isabella Lovestory,45
+steely dan,Steely Dan,69
+sammy virji,Sammy Virji,65
+i don't know how but they found me,I DONT KNOW HOW BUT THEY FOUND ME,62
+polo gonzalez,Polo Gonzalez,62
+francis blume,Francis Blume,16
+avril lavigne,Avril Lavigne,78
+cher,Cher,75
+hugelthug,HUGEL,78
+lisa ono,Lisa Ono,58
+awakebutstillinbed,awakebutstillinbed,26
+mahalia,Mahalia,61
+quarters of change,Quarters of Change,45
+dreamer isioma,Dreamer Isioma,52
+thefatrat,TheFatRat,67
+avery lynch,Avery Lynch,48
+bygones,The Bygones,35
+prvyt,PRYVT,56
+natori,natori,68
+ishan,ISHAN,51
+justin timberlake,Justin Timberlake,83
+dove cameron,Dove Cameron,71
+d.savage/lucki,LUCKI,80
+katherine li,Katherine Li,49
+elley duhe,Elley Duhé,75
+chyl,CHYL,42
+destiny rogers,Destiny Rogers,52
+beach bums,Beach Bums,39
+ray volpe,Ray Volpe,53
+wale the sage,Wale the Sage,52
+khantrast,Khantrast,64
+jimmy brown,Jimmy Brown,51
+matthew ifield,Matthew Ifield,59
+easha,EASHA,45
+fall out boy,Fall Out Boy,81
+tia corine,TiaCorine,58
+violent vira,VIOLENT VIRA,62
+drama trial,drama trial,28
+amyl and the sniffers,Amyl and The Sniffers,63
+yeule,yeule,57
+143kane,143 Kane,5
+underscores,underscores,52
+lolo zouai,Lolo Zouaï,54
+ray bull,Ray Bull,47
+sampha,Sampha,66
+run the jewels,Run The Jewels,61
+jiwoo (maisonjiwoo),Jiwoo,42
+band performing,Performing Ferret Band,1
+loossemble,Loossemble,56
+griff,Griff,68
+asumuh,asumuh,52
+sullivan king,Sullivan King,57
+the wombats,The Wombats,64
+khai dreams,khai dreams,55
+alessia cara,Alessia Cara,76
+headband andy,Headband Andy,41
+three days grace 2x,Three Days Grace,78
+lil durk,Lil Durk,82
+kes,Kesha,82
+maroon 5,Maroon 5,87
+mac ayres,Mac Ayres,58
+the 1975,The 1975,78
+palaye royale,Palaye Royale,64
+m.i.a.,M.I.A.,70
+jarimoquai,Bob Bissonnette,46
+aqyila,Aqyila,54
+ludmilla,LUDMILLA,78
+soulja boy,Soulja Boy,70
+dabeull,Dabeull,59
+raveena aurora,Raveena,57
+reol,Reol,59
+the growlers.,The Growlers,60
+miley cyrus,Miley Cyrus,84
+illit,ILLIT,77
+daisy,Daisy Jones & The Six,57
+forrest.,Forrest.,54
+osamason,OsamaSon,67
+catalyst,Catalyst...,42
+subradio,Sub-Radio,42
+daddy yankee,Daddy Yankee,88
+jordana,Jordana,67
+sheena ringo,Sheena Ringo,64
+florence and the machine,Florence + The Machine,78
+chencho corleone,Chencho Corleone,80
+dolphins on acid,Dolphins on Acid,15
+ferxxo,Feid,93
+durand bernarr,Durand Bernarr,53
+joey valence & brae,Joey Valence & Brae,66
+delorians,Delorians,43
+regina song,Regina Song,59
+julia jacklin,Julia Jacklin,56
+kaytramine,KAYTRAMINÉ,55
+janani k. jha,Janani K. Jha,57
+sleigh bells,Sleigh Bells,47
+david hugo,david hugo,45
+kordhell,Kordhell,72
+nct127,NCT 127,69
+grupo frontera,Grupo Frontera,87
+akon,Akon,84
+jakob,Jakob,55
+astn,ASTN,57
+cheat codes,Cheat Codes,67
+new hope club,New Hope Club,51
+franz ferdinand,Franz Ferdinand,70
+fletcher,FLETCHER,67
+snbrn,SNBRN,44
+alt j,alt-J,72
+joeyy,Joeyy,53
+funtcase,FuntCase,33
+purity ring,Purity Ring,50
+pinkii,PiNKII,50
+los angeles azules,Los Ángeles Azules,79
+bulow,bülow,50
+lexie liu,Lexie Liu,56
+slightly stoopid,Slightly Stoopid,63
+jawny,JAWNY,66
+sufjan stevens,Sufjan Stevens,73
+yeek,Yeek,49
+moon walker,Moon Walker,50
+mgk,mgk,79
+dance,Dance Gavin Dance,65
+the smiths,The Smiths,80
+breaking benjamin,Breaking Benjamin,73
+central cee,Central Cee,82
+rachel chinouriri,Rachel Chinouriri,61
+xanubis,XANUBIS,18
+exo,EXO,71
+bad suns,Bad Suns,57
+show me the body,Show Me the Body,45
+nico moreno,Nico Moreno,56
+luke combs,Luke Combs,86
+julien baker,Julien Baker,68
+machine girl,Machine Girl,62
+lil yatchy,Lil Yachty,81
+planet giza,Planet Giza,55
+ms. lauryn hill,Ms. Lauryn Hill,74
+sam fender,Sam Fender,73
+big thief,Big Thief,71
+rage against the machine,Rage Against The Machine,72
+jessie ware,Jessie Ware,60
+wizkid,Wizkid,83
+ak bandamont,AK Bandamont,46
+avenoir,Avenoir,67
+bastille,Bastille,76
+maude latour,Maude Latour,48
+allison russell,Allison Russell,52
+ghastly,Ghastly,48
+dean lewis,Dean Lewis,77
+kaluchis,Kali Uchis,86
+asake,Asake,77
+rc avenue,RC AVENUE,48
+thundercat,Thundercat,72
+exid,EXID,52
+lu kala,LU KALA,50
+britney mason,Britney Manson,63
+v from bts,V,86
+landon conrath,Landon Conrath,52
+diddy,Diddy,73
+trippie red,Trippie Redd,83
+of montreal,of Montreal,52
+snake pool,SNAKE POOL,28
+flyana boss,Flyana Boss,52
+andy grammar,Andy Grammer,70
+mad tsai,Mad Tsai,58
+bellakah,Bellakath,74
+cochise,Cochise,66
+holy wars,Holy Wars,36
+primus,Primus,59
+sub focus,Sub Focus,68
+lee youngji,Lee Young Ji,66
+10cm,10CM,64
+green day,Green Day,83
+chase shakur,Chase Shakur,61
+taylor hill,Taylor Hill,50
+jamie xx,Jamie xx,66
+hayley kiyoko,Hayley Kiyoko,58
+little simz,Little Simz,71
+hrvy,HRVY,59
+leigh ross,Leigh Ross,4
+zach top,Zach Top,74
+monsta x,MONSTA X,61
+tito double p,Tito Double P,91
+pharrell,Pharrell Williams,82
+matt hansen,Matt Hansen,72
+di,Diljit Dosanjh,82
+foxtide,Foxtide,39
+micheal sanzone,Michael Sanzone,47
+katie,Katie Tupper,56
+interpol,Interpol,65
+devon hendryx,Devon Hendryx,54
+david guetta,David Guetta,90
+borns,BØRNS,67
+cruza,Cruza,56
+hyejin,hyejin,43
+essosa,Essosa,49
+vinne,Vinnie Paz,54
+khamari,Khamari,57
+estevie,Estevie,52
+eyedress,Eyedress,77
+anomalie,Anomalie,50
+artemas,Artemas,80
+elijah woods,elijah woods,66
+luke hemmings,Luke Hemmings,55
+yazida,Yazida,35
+mannequin pussy,Mannequin Pussy,56
+trippie redd,Trippie Redd,83
+chanel pena,Chance Peña,74
+psychic fever,PSYCHIC FEVER from EXILE TRIBE,48
+jhariah,Jhariah,54
+kevin atwater,Kevin Atwater,46
+the killers,The Killers,79
+natalie jane,Natalie Jane,63
+chris lake,Chris Lake,70
+loveless,Loveless,56
+brutalismus 3000,Brutalismus 3000,59
+sleeping with sirens,Sleeping With Sirens,68
+her,Hermanos Gutiérrez,71
+patrick brasca,Patrick Brasca,58
+big naughty,BIG Naughty,59
+lauren spencer smith,Lauren Spencer Smith,70
+the foxtides,The Foxies,30
+wave & rome,Wave & Rome,14
+mustard service,Mustard Service,48
+towa bird,Towa Bird,50
+03 greedo,03 Greedo,64
+camilla cabello,Camila Cabello,83
+drinkurwater,Drinkurwater,35
+smokey robinson,Smokey Robinson,55
+b if do,If You Don't Know Me By Now,1
+ween,Ween,59
+jxdn,jxdn,61
+leanna firestone,Leanna Firestone,49
+santana,Santana,72
+foglake,Fog Lake,60
+nia archives,Nia Archives,59
+suicide boys,$uicideboy$,87
+carter ace,Carter Ace,44
+vvke,VVKids,22
+lane 8,Lane 8,61
+bruce springsteen,Bruce Springsteen,80
+kaarija,Käärijä,59
+ramon vega,Ramon Vega,50
+bombay bicycle club,Bombay Bicycle Club,57
+remy bond,Remy Bond,49
+clean bandit,Clean Bandit,77
+bea miller,Bea Miller,69
+evansence,Evanescence,76
+jai wolf,Jai Wolf,53
+aj tracy,AJ Tracey,69
+tws,TWS,64
+veeze,Veeze,67
+mora,Morad,80
+megan trainor,Meghan Trainor,82
+jorja smith,Jorja Smith,74
+aimyon,Aimyon,71
+mf doom,MF DOOM,78
+shady moon,Shady Moon,56
+last dinos,Last Dinosaurs,54
+rainao,RaiNao,57
+honey revenge,Honey Revenge,55
+logic,Logic,75
+duskus,Duskus,57
+cynthoni,Cynthoni,46
+jhayco,JHAYCO,84
+dylan gosset,Dylan Gossett,69
+will wood,Will Wood,64
+lsd and the search for god,LSD and the Search for God,49
+sammy rae and the friends,Sammy Rae & The Friends,55
+new west,New West,71
+justine skye,Justine Skye,65
+brigitte calls me baby,Brigitte Calls Me Baby,38
+jr,J.R. Carroll,52
+the walters,The Walters,73
+1nonly,1nonly,70
+newjeans,NewJeans,82
+renee rap,Reneé Rapp,69
+steve lacey,Steve Lacy,83
+claire,Claire Rosinkranz,58
+eric doa,ericdoa,62
+have,Have A Nice Life,56
+make towers,Towerz,52
+steve aoiki,Steve Aoki,74
+?,Elvis Presley,84
+none,Nine Inch Nails,68
+sofia isella,SOFIA ISELLA,56
+benches,benches,47
+brakence,brakence,58
+54 ultra,54 Ultra,48
+adela,ADÉLA,52
+tiny habits,Tiny Habits,54
+yena,YENA,60
+lucky daye,Lucky Daye,66
+4batz,4batz,68
+hunny,HUNNY,48
+eloise,Eloise,51
+saint levant,Saint Levant,63
+yel,Yelawolf,66
+dunno,Mac Miller,84
+redveil,redveil,54
+hope tala,Hope Tala,52
+ichiko aoba,Ichiko Aoba,63
+alexander stewart,Alexander Stewart,65
+fontaines d.c.,Fontaines D.C.,73
+chino pacas,Chino Pacas,83
+elmiene,Elmiene,58
+mind shrine,Mind Shrine,27
+triples,tripleS,61
+darci,Darci,66
+jelani aryeh,Jelani Aryeh,50
+indigo de souza,Indigo De Souza,54
+dean blunt,Dean Blunt,64
+aldn,aldn,59
+public library commute,Public Library Commute,49
+charisse chua,Charisse Chua,4
+the millennial club,The Millennial Club,57
+mon laferte,Mon Laferte,77
+any up and coming country artists,Dylan Scott,72
+take van,Take Van,46
+paris paloma,Paris Paloma,71
+weyes blood,Weyes Blood,59
+luna luna,Luna Luna,41
+dn,DNCE,69
+jenevieve,Jenevieve,55
+whichever,WhichEver,0
+hoang,Hoang,54
+the aces,The Aces,50
+lil hero,lil hero,46
+same,Sam Barber,76
+jane remover,Jane Remover,50
+keni titus,Keni Titus,43
+qwer,QWER,56
+the hellp,The Hellp,51
+molly santana,Molly Santana,52
+hemlocke springs,hemlocke springs,49
+310babii,310babii,64
+alaina castillo,Alaina Castillo,58
+idk any,idk.anymore,0
+vortxz,Vortxz,35
+koven wei,Koven Wei,39
+don’t really know anyone,d4vd,82
+sobs,Sobs,31
+tiger del flor,Tiger La Flor,42
+kwon eunbi,KWON EUNBI,47
+surl,SURL,38
+second thoughts,second thoughts,34
+kuiper,kuiper,44
+meovv,MEOVV,66
+lilypichu,LilyPichu,49
+the frights,The Frights,48
+kanii,Kanii,67
+cafune,Cafuné,71
+slchld,slchld,57
+rhyu,rhyu,39
+geordie greep,Geordie Greep,54
+i’m not sure,I'm Not Sure,3
+eurovision,My Marianne,51
+mike dimes,Mike Dimes,60
+elisia savoca,Elisia Savoca,7
+alvaro diaz,Alvaro Diaz,78
+strawberry guy,Strawberry Guy,71
+yetep,yetep,41
+the shacks,The Shacks,46
+muni long,Muni Long,70
+same as above,As I Lay Dying,61
+nive,Nivea,48
+newdad,NewDad,53
+mochakk,Mochakk,59
+teezo,Teezo Touchdown,73
+che ecru,Che Ecru,51
+amaria,Amaria,55
+tana,tana,60
+greer,Greer,41
+cody fry,Cody Fry,59
+love spells,Love Spells,54
+the internet,The Internet,61
+jaydes,jaydes,69
+alexander 23,Alexander 23,60
+berlioz,berlioz,69
+joyce wrice,Joyce Wrice,55
+current joys,Current Joys,74
+novulent,Novulent,64
+yot club,Yot Club,68
+mckenna grace,Mckenna Grace,51
+leanys,Leanys,37
+cities aviv,Cities Aviv,49
+odeal,Odeal,68
+alameda,Alemeda,43
+mehro,mehro,64
+nf,NF,80
+gabi sklar,Gabi Sklar,40
+downtown kayoto,Downtown Kayoto,31
+jade,Jaden,67
+cordae,Cordae,71
+pastel ghost,Pastel Ghost,67
+shelly,Shelly,60
+durand jones & the indications,Durand Jones & The Indications,62
+zeph,Zeph,55
+1900rugrat,1900Rugrat,65
+salute,salute,54
+sevdaliza,Sevdaliza,76
+jhung,Jhung,48
+hannah bang,hannah bahng,49
+lily allen,Lily Allen,69
+dwllrs,DWLLRS,48
+takayan,たかやん,55
+sabrina claudio,Sabrina Claudio,63
+the national,The National,67
+sad park,Sad Park,33
+neton vega,Neton Vega,84
+ayra starr,Ayra Starr,78
+twin tribes,Twin Tribes,55
+overpass,Connor Cash Elliot,0
+kneecap,KNEECAP,61
+ojerime,Ojerime,48
+carwash,carwash,51
+sunset rollercoaster,落日飛車 Sunset Rollercoaster,58
+driver's era (ross lynch),Ross Lynch,60
+king princess,King Princess,69
+alice pheobe lou,Alice Phoebe Lou,64
+idk how but they found me,I DONT KNOW HOW BUT THEY FOUND ME,62
+mj apanay,mj apanay,48
+pvrt,PRYVT,56
+alleycvt,ALLEYCVT,51
+they are gutting a body of water,They Are Gutting a Body of Water,45
+not sure who else,100 OTD,44
+jey,JEY,49
+flowerovlove,flowerovlove,56
+dkb,DKB,35
+reality club,Reality Club,64
+shae,Shawn Mendes,85
+ben rodrigues,Ben Rodrigues,49
+syml,SYML,74
+hailey knox,Hailey Knox,51
+42 dugg,42 Dugg,72
+nurko,NURKO,50
+trxy,Trxy!,55
+j balvin,J Balvin,88
+grabbitz,Grabbitz,60
+6arelyhuman,6arelyhuman,71
+sabai,SABAI,55
+bb trickz,Bb trickz,62
+(i don’t know much :( ),Roar,67
+se so neon,SE SO NEON,47
+lawrence,Lawrence,60
+jolianne,Jolianne,45
+jvna,JVNA,42
+bear ghost,Bear Ghost,53
+vcha,VCHA,47
+ari lennox,Ari Lennox,63
+jonah marais,Jonah Marais,32
+daydream twins,Daydream Twins,33
+molly grace,Molly Grace,35
+chezile,Chezile,72
+neriah,NERIAH,51
+devin kennedy,Devin Kennedy,58
+los retros,Los Retros,60
+foggieraw,Foggieraw,49
+vaundy,Vaundy,75
+kenya grace,Kenya Grace,68
+johanz canuel,Johanz Canuel,3
+baby queen,Baby Queen,49
+hoax,HOAX,48
+fana hues,Fana Hues,61
+ocean alley,Ocean Alley,65
+lil maru,Lil Maru,52
+dazey and the scouts,Dazey and the Scouts,60
+ella jane,ella jane,43
+trauma ray,trauma ray,48
+killanddieonce,killanddieonce,12
+bayli,BAYLI,40
+duster,Duster,69
+mokita,Mokita,58
+bluebucksclan,BlueBucksClan,59
+young thug,Young Thug,86
+zeke pujols,Zeke Pujols,48
+rosetintedglasses,rosetintedglasses,0
+horse jumper of love,Horse Jumper of Love,46
+minova,MINOVA,44
+,Null Positiv,24
+jt,JT,65
+ambre,Ambré,51
+kyle dion,Kyle Dion,45
+royce fisherman,Royce Fisherman,40
+her’s,Herbert von Karajan,71
+slowthai,slowthai,57
+alfie jukes,Alfie Jukes,48
+joon,Joon,49
+naturosynth,NaturoSynth,25
+edgar alejandro,Edgar Alejandro,39
+lunar vacation,Lunar Vacation,47
+victor ray,Victor Ray,59
+zhu,ZHU,64
+babe rainbow,Babe Rainbow,49
+the neighbourhood,The Neighbourhood,86
+noah guy,Noah Guy,50
+midnight kids,Midnight Kids,45
+juniper honey,Juniper Honey,21
+death grips,Death Grips,59
+stella donnelly,Stella Donnelly,37
+don’t,Don Toliver,88
+,Null Positiv,24
+coco and clair clair,Coco & Clair Clair,60
+clara la san,Clara La San,66
+juhye,juhye,34
+siopaolo,siopaolo,49
+caroline polachek,Caroline Polachek,64
+bone thugs-n-harmony,Bone Thugs-N-Harmony,67
+jhyve,Jhyve,24
+kate bollinger,Kate Bollinger,59
+"hey, nothing","hey, nothing",54
+hanumankind,Hanumankind,71
+lizzy,Lizzy McAlpine,74
+no clue,Noclue,8
+".,n.n",N!NE,44
+dj,DJ Khaled,76
+nmn.n,NMN,25
+denn.,denn.,32
+bini,BINI,72
+maye,Mayer Hawthorne,54
+isk,ISK,57
+n/,Bring Me The Horizon,81
+iyla,iyla,48
+kado,Kado,55
+,Null Positiv,24
+durand jones and the indications,Durand Jones & The Indications,62
+whitney,Whitney Houston,79
+christian french,Christian French,54
+roy blair,Roy Blair,47
+iiso,iiso,34
+kaz moon,Kaz Moon,48
+d. sean,D. Sean,27
+ls dunes,L.S. Dunes,42
+ty myers,Ty Myers,66
+cody jon,CODY JON,38
+¿teo?,¿Téo?,62
+kevin abstract,Kevin Abstract,54
+jade lemac,Jade LeMac,64
+brandon lake,Brandon Lake,74
+young posse,YOUNG POSSE,51
+boy genius,boygenius,68
+isaiah falls,Isaiah Falls,62
+haim,HAIM,65
+bayou,Bayou,52
+haiden henderson,Haiden Henderson,57
+saba,Sabaton,73
+f5ve,f5ve,44
+wallice,Wallice,48
+juno,Sabrina Carpenter,94
+mon rovia,Mon Rovîa,60
+yves,Yves,58
+tei shi,Tei Shi,47
+ninajirachi,Ninajirachi,42
+willow avalon,Willow Avalon,53
+miniature tigers,Miniature Tigers,50
+chris travis,Chris Travis,67
+babymonster,BABYMONSTER,79
+ashley alisha,Ashley Alisha,56
+ethan low,Ethan Low,49
+kyle watson,Kyle Watson,51
+bia,BIA,66
+aren’t we amphibians,Aren't We Amphibians,27
+vlad holiday,Vlad Holiday,44
+a.c.e,A.C.E,49
+takayoshi,Takayoshi,60
+dylan sinclair,Dylan Sinclair,47
+james hype,James Hype,71
+avenior,Avenoir,67
+spacey jane,Spacey Jane,60
+eric reprid,Eric Reprid,54
+,Null Positiv,24
+clavita,Clavita,29
+annie dirusso,Annie DiRusso,41
+the happy fits,The Happy Fits,56
+gun boi kaz,Gun Boi Kaz,48
+sabrina sterling,Sabrina Sterling,37
+hyelyn joo,Hyelyn Joo,23
+beach weather,Beach Weather,71
+peter mcpoland,Peter McPoland,56
+zuhair,ZUHAIR,51
+kirby,KIRBY,60
+fish in a birdcage,Fish in a Birdcage,62
+dc the don,DC The Don,59
+kelsea ballerini,Kelsea Ballerini,72
+skaiwater,skaiwater,52
+south arcade,South Arcade,54
+snoh aalegra,Snoh Aalegra,67
+triple point,Triple Point,9
+fig,Figoshin,54
+thomas ng,Thomas Ng,43
+do,Doechii,80
+punchnello,punchnello,46
+marcin,Marcin,49
+.n/n.,N!NE,44
+im basic,Basic Implant,2
+first aid kit,First Aid Kit,62
+0wave,0WAVE,35
+allie x,Allie X,56
+leslie barlow,Leslie Odom Jr.,74
+zack bryan,Zach Bryan,90
+brad stank,Brad stank,52
+capper,Capper,50
+aj rafael,AJ Rafael,50
+wave 2 earth (but lwk theyre already big),Bakar,70
+fatboibari,Fatboibari,50
+sushi saucy,Sushi Soucy,56
+j.tajor,J.Tajor,63
+jeremey passion,Jeremy Passion,56
+thee sinseers,Thee Sinseers,56
+the surlings,The Surlings,15
+david bowie,David Bowie,78
+mamamoo,MAMAMOO,61
+the hooligan5,Kyle The Hooligan,31
+mohammed siraj,Mohammed Siraj Athayi,1
+trey magnifique,Trey Magnifique,24
+hana vu,Hana Vu,42
+elujay,Elujay,45
+aliyah’s interlude,Aliyah's Interlude,58
+asi kemera,Asi Kemera,38
+noam fainer,Noam Fainer,2
+luca,Lukas Graham,72
+cardinal bloom,Cardinal Bloom,38
+yaeklore,Yaelokre,65
+dani leigh,DaniLeigh,58
+betcha,Betcha,45
+alt-j,alt-J,72
+zeina,Zeina,48
+get,Geto Boys,54
+bware,Bware,49
+hidude,Hidden Citizens,51
+emilia vaughn,Emily Vaughn,55
+aurbory bugg,Aubory Bugg,32
+graham hunt,Graham Hunt,13
+ian dior,iann dior,72
+snarky puppy,Snarky Puppy,50
+ben howard,Ben Howard,66
+dylan gossett,Dylan Gossett,69
+i’ve spice,Ice Spice,75
+esme emerson,Esme Emerson,33
+amo,Amon Amarth,61
+anees,anees,60
+sammy harding,Sammy Harding,0
+nemahsis,Nemahsis,48
+epik high,Epik High,56
+ally ladrillono,Ally Ladrillono,1
+sunflower bean,Sunflower Bean,43
+zb1,ZEROBASEONE,66
+ghostboobss,Ghostboobss,10
+zahir,Zahir howaida,20
+chiiild,Chiiild,45
+larussell,LaRussell,54
+paco,CA7RIEL & Paco Amoroso,68
+oceanfromtheblue,oceanfromtheblue,47
+whirr,Whirr,56
+heize,Heize,61
+matt maeson,Matt Maeson,64
+midnight blu,Midnight Blu,46
+fuller,Fuller,41
+good morning,Good Morning,55
+snob aelegra,Snoh Aalegra,67
+clara mae,Clara Mae,52
+wang ruolin,Leehom Wang,60
+kettama,KETTAMA,55
+ryan mack,Ryan Mack,68
+mom jeans,Mom Jeans.,67
+cody simpson,Cody Simpson,54
+laure shingihara,Laura Shigihara,57
+arlie,Arlie,45
+common saints,Common Saints,50
+øzi,ØZI,58
+no keshi please,keshi,78
+cusp,Cusp,28
+know,KnowKnow,48
+ethan bortnick,Ethan Bortnick,54
+slow pulp,Slow Pulp,59
+bby eco,Bby Eco,37
+expose,Exposé,47
+coffee date,Coffee Date,49
+and the kids,And The Kids,31
+shaquille o'neal,Shaquille O'Neal,49
+omesi,Omesi,44
+sumika,sumika,60
+gus dapperton,Gus Dapperton,58
+mitraz,Mitraz,68
+arlo parks,Arlo Parks,59
+maya hawke,Maya Hawke,54
+yellow days,Yellow Days,48
+fwango,Fwango,32
+renters,Renters,0
+chatpile,Chat Pile,48
+mind’s eye,Mind’s Eye,48
+micah dailey-white,Micah Dailey-White,44
+loren,Lorenzo,58
+los yesterdays,Los Yesterdays,50
+jengi,Jengi,58
+ritz vanity,Ritz Vanity,10
+karri,Karri,56
+fog lake,Fog Lake,60
+let,Leto,69
+bay faction,Bay Faction,40
+boa,Boards of Canada,59
+nxdia,Nxdia,55
+lowk wisp,wisp,20
+nsqk,Nsqk,71
+g0nny,g0nny,41
+ndjcnrj,TJ DTS,41
+all under heaven,all under heaven,41
+david austin,Austin Davidson,19
+dylan conrique,Dylan Conrique,56
+ruelle,Ruelle,64
+marc segui,Marc Seguí,67
+uhhhh snoop dogg idk,Snoop Dogg,86
+citizen queen,Citizen Queen,38
+ghais guevara,Ghais Guevara,38
+yayyoung,Yayyoung,44
+him,HIM,63
+valentin prince,Valentin Prince,7
+afourteen,Afourteen,48
+alex ponce,Alex Ponce,64
+elsee,Elderbrook,70
+junior mesa,Junior Mesa,32
+ace,Ace of Base,70
+me n u,me n ü,46
+genshin impact,HOYO-MiX,74
+sunshower,sunshower,3
+liv.e,Liv.e,46
+lund,Lund,59
+juice wrld,Juice WRLD,93
+sure,Sure Sure,50
+tatsuya kitani,Tatsuya Kitani,69
+adventure club,Adventure Club,53
+sega bodega,Sega Bodega,49
+dope lemon,DOPE LEMON,64
+viviz,VIVIZ,62
+elvis presley,Elvis Presley,84
+kokoroko,Kokoroko,52
+pascal,Pascale Picard,22
+sprinks,sprinks,24
+the turning wheel,The Turning Wheel,0
+miracle musical,Miracle Musical,62
+anything about this,Hedley,48
+majed razavi,Majid Razavi,49
+poolhouse,Pool House,18
+4ever falling,4ever Falling,41
+dennis van aarssen,Dennis van Aarssen,51
+biking with francis,Biking With Francis,37
+rick west,Rick West,14
+samuel lim,Samuel Lim,25
+kpop groups in general,BTS,87
+speed,Speed,48
+norah jones,Norah Jones,76
+cosmo shelldrake,Cosmo Sheldrake,58
+omar courtz,Omar Courtz,81
+brittany ferns,Brittany Kennell,24
+overmono,Overmono,57
+nai palm  (since hiatus kaiyote is already well known),Nai Palm,37
+rick montgomary,Ricky Montgomery,72
+leah dou,Leah Dou,43
+jean marc,Jean-Marc Couture,24
+bell biv divoe,Bell Biv DeVoe,58
+rachel potter,Rachel Potter,37
+aj mitchell,AJ Mitchell,60
+davinky,Davinky1of1,1
+forrest frank,Forrest Frank,74
+metalverse,BABYMETAL,70
+jb carrol,J.R. Carroll,52
+of,The Offspring,79
+metaphor,ATLUS GAME MUSIC,69
+pocari sweet,Pocari Sweet波卡利甜,23
+taylor,Taylor Swift,100
+matilda mann,Matilda Mann,49
+koteri,Koteri,26
+emma nissen,Emma Nissen,48
+cocteau twins,Cocteau Twins,67
+witt lowry,Witt Lowry,59
+cg5,CG5,65
+dumbo gets mad,Dumbo Gets Mad,41
+lil pete,Lil Pete,53
+someone big,Gros Big,32
+87dance,87dance,34
+chai,The Chainsmokers,83
+saint blonde,Saint Blonde,41
+hanbee,hanbee,37
+purple kiss,PURPLE KISS,51
+sleepsk8,Sleepsk8,18
+yuni,Yuno Miles,53
+atti culture,Aatig,58
+kid,Kid Cudi,80
+mc virgins,MC Virgins,52
+madison buckingham,Madison Beer,75
+kelly moonstone,Kelly Moonstone,13
+little jesus,Little Jesus,58
+the wasian project,The MPF Project,8
+changeline,Changeline,40
+rav + kill bill,Rav,52
+dazy,Dazy,28
+precious,Precious Pepala,44
+frada,Fridayy,68
+rin,Rina Sawayama,59
+khaki kid,KhakiKid,35
+little winter,little winters,40
+jinjer,Jinjer,58
+lewis hamilton,Charles Leclerc,56
+gregory alan isakov,Gregory Alan Isakov,73
+rhea raj,Rhea Raj,40
+maria isabel,María Isabel,31
+unotheactivist,UnoTheActivist,56
+the 805,The 805,13
+daysormay,daysormay,30
+awin,AWIN,37
+culenasm,クレナズム,38
+ben beal,Ben Beal,46
+nelward,nelward,43
+lithe,Lithe,74
+trade l,TRADE L,47
+dizzy fae,Dizzy Fae,44
+ekko2k,Ecco2k,62
+creature canyon,Creature Canyon,33
+ozzi,Ozzy Osbourne,73
+alexisonfire,Alexisonfire,55
+boldy james,Boldy James,67
+the crystal casino,The Crystal Casino Band,38
+raavena,DJ Raavana Music,14
+ilytommy,ilyTOMMY,64
+wukong,WUKONG,43
+oh wonder,Oh Wonder,69
+riley green,Riley Green,77
+dave blunts,Dave Blunts,58
+the rare occasions,The Rare Occasions,66
+angelica garcia,Angélica Garcia,36
+kurt cobain,Kurt Cobain,54
+danny schiller,Danny Schiller,33
+marian carmel,Marian Carmel,31
+brb,brb.,59
+aaa,FLO,68
+blood orange (not up and coming),Blood Orange,70
+moon tang,moon tang,48
+erin kinsey,Erin Kinsey,55
+salami,Salami Rose Joe Louis,53
+marlon funaki,Marlon Funaki,54
+edward skeletrix,Edward Skeletrix,45
+provoker,Provoker,50
+babebee,Babebee,32
+shaun (korean artist),Shawn Mendes,85
+too,TOOL,72
+check out djs that work at rich's in hillcrest,Classified,47
+byjaye,byjaye,31
+mei semones,Mei Semones,42
+know any uo and coming artist ;(,Topman Meeko,36
+flamingos in the tree,Flamingos in the Tree,43
+she past away,She Past Away,47
+zachary knowles,Zachary Knowles,44
+22gfay,22gfay,47
+virat kohli,Virat Kohli,10
+aici,aici,25
+mustafa,Mustafa,61
+1999 write the future,1999 WRITE THE FUTURE,47
+dfuego,Dfuego,0
+the ocho,The Ocho,28
+the beatles,The Beatles,86
+the mexican ot,That Mexican OT,72
+(not up and coming but) role model,Roney,45
+thearkangels,Arkells,51
+nourished by time,Nourished by Time,46
+aaron hill,Aaron Hibell,60
+local artist that play pirate pandas shows,White Panda,42
+frances quinlan,Frances Quinlan,52
+sxmpra,SXMPRA,64
+pink $weats,Pink Sweat$,67
+jaydayoungan,JayDaYoungan,65
+leonie biney,Leonie Biney,36
+the war and treaty,The War And Treaty,64
+chase goehring,Chase Goehring,29
+joost,Joost,67
+daiela,Daiela,43
+scoopedup,Scoop Duna,34
+ravane,RAVANE,0
+cowgirl clue,Cowgirl Clue,39
+knox hamilton,Knox Hamilton,38
+king and country,for KING & COUNTRY,71
+haru nemuri,HARU NEMURI,41
+night cereal ‍↕‍↕,Night Cereal,4
+ok,OK Go,54
+baynk,BAYNK,58
+talia mar,Talia Mar,48
+jev,jev.,60
+andrew foy,Andrew Foy,46
+stela cole,Stela Cole,57
+roosevelt,Roosevelt,58
+los campesinos,Los Campesinos!,54
+rex laurent,Rex Laurent,27
+banda ms,Banda MS de Sergio Lizárraga,81
+elaine,Elaine,49
+templuv,templuv,35
+tom misch,Tom Misch,67
+elemine,Eleine,40
+wang fei,Faye Wong,61
+marq,marQ,51
+saddoggy,Saddoggy,19
+nate b smith,Nate Smith,73
+oxlade,Oxlade,66
+gxllium,Gxllium,21
+the kingdom,The Kingdom Choir,43
+chorduroy,Chorduroy,10
+ella luna,Ella Luna,19
+akshath,Akshath,58
+pell,PelleK,51
+noevdv,noevdv,67
+omar rudberg,Omar Rudberg,56
+the grinns,The Grinns,30
+josephine illingworth,Josephine Illingworth,42
+sjowgren,Sjowgren,52
+sullvn,sullvn,22
+john mackk,John Mackk,53
+most wanted,Most Wanted,31
+gabito ballesteros,Gabito Ballesteros,85
+sonya titus,Sonya Titus,0
+relevant,Relevant,0
+avantghetto,AvantGhetto,0
+midwife,Midwife,37
+we are the night,We Are The Night,50
+nostalgix,Nostalgix,41
+jordan suaste,Jordan Suaste,45
+got7,GOT7,61
+alexa,Alexandra Streliski,61
+luna,Luna Li,52
+caleb gordon,Caleb Gordon,63
+bolaji,Bōlají,38
+free nationals,Free Nationals,61
+kimmy pidazo,Kimmy Pidazo,5
+anne-marie,Anne-Marie,78
+luvdes,luvdes,42
+m60,M60,39
+marc indigo,marc indigo,48
+kflay,K.Flay,65
+tkay maidza,Tkay Maidza,53
+sub urban,Sub Urban,68
+madtsai,Mad Tsai,58
+liana flores,Liana Flores,69
+violet orlandi,Violet Orlandi,45
+the howl and the hum,The Howl & The Hum,39
+rook monroe,Rook Monroe,34
+husse,Hussein Al Deek,44
+lol idk,idk.lol6307,0
+jamie miller,Jamie Miller,66
+the poles,The Poles,48
+kacchan,Kachanr,17
+galdive,Galdive,45
+geo,George Michael,75
+shallipoppi,Shallipopi,67
+bunt,BUNT.,71
+aziya,Aziya,43
+yndling,Yndling,29
+the family crest,The Family Crest,44
+amira elfeky,Amira Elfeky,56
+allison russel,Allison Russell,52
+kep1er,Kep1er,59
+natalie imbruglia,Natalie Imbruglia,67
+tobi,TOBi,45
+,Null Positiv,24
+loud luxury,Loud Luxury,68
+subtronics pls,Subtronics,65
+nomad,NOMAD,29
+joyce wright,Joyce Wright,12
+baby storme,Baby Storme,34
+jhin,JHIN,53
+vision video,Vision Video,37
+phillip phillips,Phillip Phillips,62
+pond,Pond,49
+mexican slumrats,Mexican Slum Rats,45
+suave dubois,Suave Dubois,9
+vaisagh,vaisagh,47
+louis cole,Louis Cole,48
+solo b,Solo B,38
+(cant think of any),KHEM,21
+archer oh,Archer Oh,33
+h.e.r.,H.E.R.,77
+neutral milk hotel,Neutral Milk Hotel,58
+idk again,NAV,73
+have any,Have A Nice Life,56
+helloworld,helloworld,35
+zoe,Zoé,74
+colony house,Colony House,49
+sophiethehomie,SOPHIETHEHOMIE,34
+shakes graves,Shakey Graves,61
+bedouine,Bedouine,50
+stereosity,Stereosity,26
+blake ruby,Blake Ruby,30
+felix ames,Felix Ames,33
+rejjie snow,Rejjie Snow,60
+yana,Yana,55
+bi,Billie Eilish,96
+osa,OsamaSon,67
+tink,Tink,61
+ampers&one,AMPERS&ONE,39
+sorry lol,Sorry Mom,45
+daisy world,DAISY WORLD,48
+rjmrla,RJMrLA,55
+sky,Sky Ferreira,57
+sion,SION,33
+im nayeon,Im Hayeong,10
+tnt,TNT,58
+hoelesszach,HoeLessZach,5
+zoe osama,Zoe Osama,54
+unusual demont,Unusual Demont,44
+phendste,phendste,50
+chloe,Chlöe,62
+numl6ck,Numl6ck,44
+sweatcult,Sweatcult,35
+carpool,Carpool,32
+the casper fight scene,The Casper Fight Scene,26
+halo kitsch,Halo Kitsch,26
+addison rae (lol),Addison Rae,74
+zacari,Zacari,69
+fujii kaze,Fujii Kaze,74
+oral gartland,Orlanda,6
+parker jack,Parker Jack,63
+dax flame,Dax,69
+ironmouse,Ironmouse,50
+lykke li,Lykke Li,70
+xelishurt,Xelishurt,43
+"i apologize for being a bit too mainstream :,)",The Living Tombstone,72
+roman kayz,Roman Kayz,28
+idk rapper,IDK,59
+glare,Glare,58
+sumo waterhouse,NOFX,61
+2danji,2danji,32
+chung ha,CHUNG HA,61
+teejayx6,Teejayx6,37
+j boog,J Boog,60
+blanco,Blanco,65
+jesse welles,Jesse Welles,54
+miike snow,Miike Snow,55
+bassnectar,Bassnectar,53
+young cocoa,Young Cocoa,33
+mqx,Mqx,55
+sorry we’re late,sorry we're late,0
+navy blue,Navy Blue,48
+injury reserve,Injury Reserve,46
+in between,Gracie Abrams,91
+glades,Glades,45
+devon gabriella,Devon Gabriella,43
+monaleo,Monaleo,58
+yihae,贺一航,33
+idfk lucki,LUCKI,80
+plave,PLAVE,61
+poomplamoose,PLÜM,66
+nell mescal,Nell Mescal,40
+tydi,tyDi,39
+winnetka bowling league,Winnetka Bowling League,47
+1takejay,1takejay,51
+joshwa,Joshwa,54
+grey d,Grey Daze,45
+vtoroi ka,ビクター ＭＫＩＩ,30
+dr. peacock,Dr. Peacock,61
+cal scruby,Cal Scruby,58
+scarlett,Scarlett Johansson,59
+bad badnotgood,BADBADNOTGOOD,65
+baby rose,Baby Rose,52
+not too sure,Not By Choice,13
+pity party (girls club),Pity Party (Girls Club),60
+paper idol,Paper Idol,44
+jasontheween,jasontheween,45
+boygenuis,boygenius,68
+roger clyne & the peacemakers (previously known as the refreshments),Roger Clyne & The Peacemakers,28
+niki/rich brian,Rich Brian,67
+evv,evvls,29
+zimmz,Zimmz,30
+smother,The Smothers Brothers,13
+sunkissed lola,SunKissed Lola,62
+momma,Momma,48
+starberry,Starberry,39
+giving perez,Cain Perez,24
+grittylex,Gritty Lex,16
+portraits of tracy,Portraits Of Tracy,44
+salem ilese,salem ilese,65
+title fight,Title Fight,66
+maeta,Maeta,53
+nemzzz,Nemzzz,76
+stay outside,Stay Outside,18
+mia rodriguez,Mia Rodriguez,46
+brynne,brynne mooney,0
+andruss,Andruss,50
+#gatekeeping,Gatekeeper,23
+goldlink,GoldLink,66
+tanukichan,Tanukichan,48
+burna boy,Burna Boy,81
+engelwood,Engelwood,49
+i am so sorry,i am so sorry!,0
+glokk40spaz,Glokk40Spaz,63
+dr. heisenbone's acid bath,Dr. Bushman,38
+trampolin,Kero Kero Bonito,56
+divina jasso,Divina Jasso,26
+coco joans,Coco Jones,65
+i am fine with any,Bailey Spinn,46
+kodaline,Kodaline,69
+palace floor,Palace Floor,27
+marlon craft,Marlon Craft,58
+six of spades,Six of Spades,20
+djmegan23,DJmegan23,49
+nafeeisboujee,Nafeesisboujee,61
+custard,Custard,36
+ari abdul,Ari Abdul,68
+che,Cheema Y,69
+fromis_9,fromis_9,63
+oneprepublic,OneRepublic,85
+she & him,She & Him,63
+baambii,BAMBII,39
+lil ditto,LIL DITTO,1
+vegyn,Vegyn,55
+victony,Victony,71
+kimmy bitter,Kimmi Bitter,19
+sam barber,Sam Barber,76
+alan sutton,Alan Sutton y las criaturitas de la ansiedad,60
+qveen herby,Qveen Herby,56
+buddha trixie,Buddha Trixie,40
+kali uchis (?? lol),Kali Uchis,86
+equipment,Equipment,32
+mack keane,Mack Keane,43
+bktherula,Bktherula,61
+mick jenkins,Mick Jenkins,58
+martin garix,Martin Garrix,77
+morat,Morat,84
+bei,Beirut,57
+p.diddy,Diddy,73
+nafla,nafla,43
+either,JPEGMAFIA,69
+baby cocada,Baby Cocada,6
+bandersnatched,PUP,51
+fifty fifty,FIFTY FIFTY,68
+i don’t listen to new artists,SZA,93
+mariachi reynas de los angeles,Mariachi Vargas De Tecalitlán,56
+delaney bailey,Delaney Bailey,59
+sam gellaitry,Sam Gellaitry,55
+soft siren,soft siren,40
+ricci,Ricci Paolo,34
+lewis ofman,Lewis OfMan,51
+real estate,Real Estate,49
+housecall,Shabba Ranks,50
+deleon edwards,Delroy Edwards,35
+iron maiden,Iron Maiden,75
+the radio dept.,The Radio Dept.,53
+skip marley,Skip Marley,58
+rachika nayar,Rachika Nayar,30
+bang yedam,BANG YEDAM,49
+,Null Positiv,24
+erre,Erreway,59
+jahnah camille,Jahnah Camille,22
+,Null Positiv,24
+bella marcy,Bella Marcy,22
+hers,Her's,65
+lauefy,Laufey,85
+eric chou,Eric Chou,68
+natalie carr,Natalie La Rose,51
+flower face,Flower Face,54
+jewel,Jewel,59
+souly had,Souly Had,50
+sonniku,Sonny Clark Trio,34
+40,40 Fingers,42
+grace enger,Grace Enger,44
+jordan davis,Jordan Davis,74
+train,Train,77
+young ji,Lee Young Ji,66
+^^,^^OON,14
+aly & aj,Aly & AJ,55
+daisy grenade,Daisy Grenade,45
+soccer mommy,Soccer Mommy,54
+jay kim,Jay Kim,39
+night cap,Night Cap,41
+where’s jai,Where's Jai,29
+lizzy grant,Lizzy Grant,1
+be your own pet,Be Your Own Pet,40
+stevie howie,Stevie Howie,50
+the nude party,The Nude Party,43
+kabin crew,Kabin Crew,55
+snakehips,Snakehips,61
+remy,Remy Ma,60
+good neighbours,Good Neighbours,68
+babyface ray,Babyface Ray,66
+slater,Slater,40
+adan diaz,adan diaz,48
+adanna duru,Adanna Duru,42
+beach fossils,Beach Fossils,53
+o.o.o,O.O.O,27
+paloma mami,Paloma Mami,64
+cant think of another,Josh Ross,66
+zeruel,Zeruel,56
+the new six,TNX,44
+freddie dress,Freddie Dredd,71
+carol ades,Carol Ades,41
+ramirez,Ramirez,67
+sybille’s on jupiter,Sybille's on Jupiter,1
+swim,Swimming Paul,58
+third eye blind,Third Eye Blind,66
+lee.,Lee Mujin,56
+jess benko,Jess Benko,48
+zeke bieu,Zeke Bleu,41
+chance pena,Chance Peña,74
+azyia,Azyla,31
+shaaba,Shaaban Abdel Rahim,21
+jev.,jev.,60
+peelingflesh,PeelingFlesh,50
+daniel di angelo,Daniel Di Angelo,59
+smog alegra,Doug and the Slugs,34
+sole,SOLE,49
+chxrry22,Chxrry22,42
+vince,Vince Staples,70
+bad gyal,Bad Gyal,76
+1975,The 1975,78
+jessie murph,Jessie Murph,75
+ikd,Ikd-sj,20
+leo,Leon Bridges,75
+wingtip,Wingtip,46
+bruno mars lol,Lil Tjay,80
+adore,adore,66
+ourr,OurR,29
+jose gonzalez,José González,66
+nt,NTO,59
+lynn laufey,Lyn Lapid,64
+nickcheo,Pop Smoke,80
+olivia o,Olivia O'Brien,66
+parcels,Parcels,68
+tee grizzley,Tee Grizzley,71
+kodak black,Kodak Black,82
+the xx,The xx,68
+chloe frances,Chloe Frances,30
+yusuf maung,Yusuf Mohammed,54
+joy again,Joy Again,64
+chuu,CHUU,50
+i only listen to popular artusts,Drake,97
+cil (bloodsucker),CIL,54
+eric iv,Eric IV,44
+pippotchi,Pippotchi,30
+juelz,Juelz Santana,65
+mourning high,Mourning High,32
+field medic,Field Medic,47
+drama,DRAMA,58
+mytro,MYTRO,49
+shae universe,Shae Universe,47
+marca mp,Marca MP,69
+paw paw rod,PawPaw Rod,55
+nor sure,Northlane,54
+phantom siita,ファントムシータ,51
+"niviro, nurko",NIVIRO,48
+mandy,Mandy Moore,65
+michael cimino,Michael Cimino,24
+very underground queer icon chappell roan,Chappell Roan,88
+99 neighbors,99 Neighbors,42
+king gizzard and the lizard wizard,King Gizzard & The Lizard Wizard,65
+emmanuel cortes,emmanuellcortess_,66
+"regina song (wrote cutest pair, viral on tiktok)",Regina Song,59
+milo j,Milo j,83
+junior brother,Junior Brother,26
+scene queen,Scene Queen,55
+efe,Efecto SR,48
+mindforce,Mindforce,42
+reem,ريم السواس,35
+spencer.,Spencer.,39
+jelly roll,Jelly Roll,82
+pearl,Pearl Jam,77
+slapbak,Slapbak,6
+rachael jenkins,Rachael Jenkins,26
+shaun,SHAUN,59
+geoff castellucci,Geoff Castellucci,55
+ye,Yeat,83
+lodea,Lodea,1
+jacob collier,Jacob Collier,62
+orla gartland,Orla Gartland,54
+kayla darden,Kayla Darden,0
+key glock,Key Glock,77
+kid cuddie,Kid Cudi,80
+felix de leon,Felix de Leon,34
+james arthur,James Arthur,82
+lullaboy,lullaboy,52
+demxntia,demxntia,57
+cat burns,Cat Burns,63
+precious pepala,Precious Pepala,44
+nigo,Nigo,56
+conan,Conan Gray,81
+psychedelic porn crumpets,Psychedelic Porn Crumpets,51
+meat computer,meat computer,44
+kameron marlowe,Kameron Marlowe,64
+rebounder,Rebounder,48
+coyote kid,Coyote Kid,42
+yuna,Yuna,64
+niontay/454,Niontay,41
+neko case,Neko Case,47
+akai solo,AKAI SOLO,34
+daniel,Daniel Caesar,87
+stephanie poetri,Stephanie Poetri,56
+fia,Fia,49
+dvwn,Dvwn,52
+madison mcferrin,Madison McFerrin,46
+lazerdim,LAZER DIM 700,65
+shing02,Shing02,55
+basement,Basement,62
+the alton’s & sinseers,The Altons,52
+xinxin,Xinxin,22
+gatlin,Gatlin,49
+coast contra,Coast Contra,46
+ferdous,Ferdous,46
+8ro8,8RO8,42
+andy shauf,Andy Shauf,50
+juile,Julia Cole,56
+cobrah,COBRAH,58
+jdk,JDK,0
+the heavy,The Heavy,60
+gesaffelstein,Gesaffelstein,73
+meenoi,meenoi,46
+songer,Songer,62
+sidney gish,Sidney Gish,43
+ella langley,Ella Langley,74
+lone the ghost,"Lone, the Ghost",17
+bridget mendler,Bridgit Mendler,62
+tom cardy,Tom Cardy,60
+jairbaby,Jc32Baby,33
+ruby sparks,Ruby Sparks,0
+ricscales and dj root,Ric Scales,7
+fullcrate,Full Crate,57
+pretty jane,Pretty Jane,41
+michelle,Michelle Branch,58
+anorak,Anorak,3
+no,Noah Kahan,86
+blank space,Taylor Swift,100
+hohyun,HOHYUN,43
+kyle thorton and the company,Kyle Thornton & The Company,26
+annika bennett,Annika Bennett,41
+luke chaing,Luke Chiang,64
+banoffee,Banoffee,25
+telykast,TELYKAST,52
+anyma,Anyma,69
+johnny manchild and the poor bastards,Johnny Manchild and the Poor Bastards,39
+ebk jaaybo,EBK Jaaybo,66
+sam gelliatry,Sam Gellaitry,55
+tg.blk,tg.blk,50
+gabriela bee,Gabriela Bee,58
+beeson,Beeson,35
+keane,Keane,76
+ale araya,Alé Araya,45
+kwasi kao,kwasi kao,37
+e\/3,E\/3,0
+jdab,JDAB,22
+adrienne kenner,Adrianne Lenker,75
+talos,Talos,41
+gemini syndrome,Gemini Syndrome,45
+jaylon ashaun,Jaylon Ashaun,46
+cluadia,Cluadia Bracco,0
+alix page,Alix Page,32
+ez mil,Ez Mil,53
+dosii,dosii,50
+riordan,Riordan,48
+milky day,Milky Day,50
+the shed,The Shedhawks,1
+figure it out band,Matthew Good Band,43
+jaykeo,JayKeo,5
+morissette,Morissette,53
+drusky,Drusky,11
+okpop,OKPOP,28
+clubhouse,Clubhouse,52
+i’m not niche enough to list anything here,KHEM,21
+,Null Positiv,24
+mild high club,Mild High Club,60
+elliot james reay,Elliot James Reay,64
+bea and her business,Bea and her Business,58
+rachel sandy,Rachel Sandy,30
+luisa marion,Luisa Marion,41
+interplanetary criminal,Interplanetary Criminal,62
+brandon,Brandon Lake,74
+kailash kher,Kailash Kher,70
+reverie,Reverie,35
+tally hall,Tally Hall,66
+8bite,8Bite,42
+persian people,Ebi,52
+ethan french,Ethan French,41
+cosmo pyke,Cosmo Pyke,45
+echo huang,Echo Huang,38
+bulldoze,Bulldoze,24
+claud,Claude Dubois,37
+corey lingo,Corey Lingo,33
+rels b,Rels B,85
+sessa,Sessa,38
+jereena montemayor,Jereena Montemayor,52
+topeka clementine,Topeka Clementine,31
+magdalena bay omg fuck ethan that was a joke they defo should be headlining,Magdalena Bay,69
+alexandra savior,Alexandra Savior,50
+sg lewis,SG Lewis,64
+modern baseball,Modern Baseball,65
+jakobs castle,Jakobs Castle,44
+hedex,Hedex,59
+allison pointier,Allison Ponthier,51
+trip carter,Trip Carter,32
+the peachskins,The Peachskins,12
+humble the great,Humble the Great,45
+blaketheman1000,Blaketheman1000,25
+andrew  alexander,Alexander Andrew Lamy,0
+kim doyoung ,Kim Na Young,54
+i,Imagine Dragons,89
+jiwoo ,Jiwoo,42
+q,Queen,86
+a,Ariana Grande,96
+j,Juice WRLD,93
+*,*NSYNC,78
+,Null Positiv,24
+driver's era ,THE DRIVER ERA,59
+m,Morgan Wallen,90
+—,･ ･－･ ･－ ･･･ ･ －･･,42
+nai palm  ,Nai Palm,37
+wave 2 earth ,wave to earth,77
+flo mili,Flo Milli,74
+,Null Positiv,24
+d,Drake,97
+bigxtheplug,BigXthaPlug,83
+shaun ,Shawn Desman,42
+f,Frank Ocean,89
+genia,Genia,41
+the sinseers,Thee Sinseers,56
+samuel ,Samuel Kim,64
+cil ,CIL,54
+dr peacock,Dr. Peacock,61
+pity party ,Pity Party (Girls Club),60
+roger clyne & the peacemakers ,Roger Clyne & The Peacemakers,28
+ed maverick,Ed Maverick,71
+lauren babic,Lauren Babic,52
+sapphire gray ,Sapphire Gray,0
+ariel,Ariel Pink,49
+cloudyfield,cloudyfield,49
+bonavega,Bonavega,15
+tino szn,Tino Szn,19
+josh ross,Josh Ross,66
+jade thirlwall,JADE,59
+alice pheobe luo,Alice Phoebe Lou,64
+solya,Solya,51
+3lh,3lh,16
+amee,AMEE,62
+stephen stanley,Stephen Stanley,50
+esteban gabriel,Esteban Gabriel,59
+damian carroll,Damian Carroll,0
+otha,Otha,47
+rio,Rio Da Yung Og,69
+kaleo,KALEO,72
+kuber vasuki,Vaishali Kusumkar,9
+puree,Purée,29
+captain moon & the silver spoons,Captain Moon & the Silver Spoons,1
+ivy knight,Ivy Knight,24
+n/a ,Ariana Grande,96
+samia,Samian,29
+cosmos demos,Cosmo's Demos,30
+a.g cook,A. G. Cook,59
+wynne,Wynne,38
+wanmor,WanMor,52
+joey valence and brae,Joey Valence & Brae,66
+i dont know im sorry,Alexander Stewart,65
+sophie ellis bextor,Sophie Ellis-Bextor,69
+halocene,Halocene,53
+spelling,SPELLLING,35
+kid quill,Kid Quill,46
+naomi sharon,Naomi Sharon,58
+dead emerson,Dead Emerson,18
+rudy deanda,Rudy De Anda,20
+winter from aespa,aespa,83
+girli,Girlicious,33
+vnssa,VNSSA,39
+the backstreet lovers,The Backseat Lovers,67
+muo duo,Muo Duo,21
+elephante,Elephante,48
+coucou chloe,COUCOU CHLOE,45
+the warning,The Warning,64
+plumskin,The Plus King,21
+alex isley,Alex Isley,62
+idk tbh,IDK,59
+bird photos,Bird Photos,20
+rocco or thuy,Rocco,63
+wyatt flores,Wyatt Flores,69
+love all,Drake,97
+rose tinted glasses,ROZES,61
+ryan caraveo,Ryan Caraveo,56
+sofya wang,Sofya Wang,22
+mac aryes,Mac Ayres,58
+tate,Tate McRae,86
+moonbyul,Moon Byul,49
+andy ma,Andy Mallet,7
+carwash / postcard boy,carwash,51
+thxsomch,ThxSoMch,68
+kwn,kwn,53
+n’a,Ariana Grande,96
+belaganas,Belaganas,33
+austin giorgio,Austin Giorgio,61
+brenn,Brenn!,60
+baby tate,Baby Tate,67
+noizu,Noizu,58
+thornhill,Thornhill,53
+pouya,Pouya,70
+billy vicente,Billy Vicente,34
+wet leg,Wet Leg,58
+julio cesar,Julio Cesar,5
+nokia angel,Nokia Angel,40
+henry morris,Henry Morris,50
+bring,Bring Me The Horizon,81
+orangutang ,Orangutang,21
+chrissy,Chrissy Costanza,61
+melodys echo chamber,Melody's Echo Chamber,47
+tyler childers,Tyler Childers,79
+lyle kam,Lyle Kam,33
+howard lee,李浩瑋 Howard Lee,54
+sasha sloan,Sasha Alex Sloan,71
+adrian lyles,Adrian Lyles,32
+ogi,Ogie Alcasid,49
+kim doyoung,Kim Na Young,54
+jiwoo,Jiwoo,42
+kylie cantrall,Kylie Cantrall,63
+driver's era,THE DRIVER ERA,59
+cil,CIL,54
+wave 2 earth,wave to earth,77
+nai palm,Nai Palm,37
+pity party,Pity Party (Girls Club),60
+samuel,Samuel Kim,64
+roger clyne & the peacemakers,Roger Clyne & The Peacemakers,28
+hako,hako,61
+sapphire gray,Sapphire Gray,0
+,Bring Me The Horizon,81
+games we play,Games We Play,46
+orangutang,Orangutang,21
+troy javelona,Troy Javelona,48
+kiltro,Kiltro,46
+destroy boring,DESTROY BORING,33
+bas,Bastille,76
+tamino amir,Tamino,57
+skegss,Skegss,54
+netstpend,Nettspend,71
+balancing act,Balancing Act,34
+rare americans,Rare Americans,58
+haku.,Haku.,39
+tyler man,Tyler Mann,39
+don’t know,I DONT KNOW HOW BUT THEY FOUND ME,62
+priya mani,Priya Mani,20
+stephen dawes,Stephen Dawes,57
+jane & the boy,Jane & The Boy,41
+nct 127,NCT 127,69
+haley heyenderickx,Haley Heynderickx,60
+boylife,boylife,34
+aeon:mode,ÆON:MODE,43
+javi vera,Javi Vera,36
+none as such,Cold As Life,26
+maggie lindemann,Maggie Lindemann,62
+adriel,Adriel Favela,66
+vipershawty,Vipershawty,0
+ejean,EJEAN,57
+return to dust,Return to Dust,43
+yao,YOASOBI,77
+bbyrikz,Rymz,46
+loathe,Loathe,62
+the doozers,The Doors,75
+burn the ballroom,Burn The Ballroom,45
+the pink flamingos,The Flamingos Pink,9
+ravyn lae,Ravyn Lenae,63
+julie band,julie,57
+i got none,KILLY,50
+marluxiam,Marluxiam,56
+dasha,Dasha,76
+bebadoobe,beabadoobee,83
+slayyyter,Slayyyter,57
+jasmine bean,Jazmin Bean,56
+anotr,ANOTR,65
+eileenalister,Eileen Alister,38
+oklou,Oklou,54
+banda,Banda MS de Sergio Lizárraga,81
+any big edm artist,Loud Luxury,68
+diesel,DIESEL,45
+shaq or dj diesel,Shaquille O'Neal,49
+,Null Positiv,24
+nicole han,nicole han,18
+misterwives,MisterWives,57
+flor,Florence + The Machine,78
+letters to cleo,Letters To Cleo,47
+good enough,Michael Marcagi,73
+nobu woods,Nobu Woods,58
+newjeans nim,NewJeansNim,12
+wild rivers,Wild Rivers,67
+french police,French Police,53
+pom pom squad,Pom Pom Squad,42
+pink siifu,Pink Siifu,54
+i don’t know how but they found me,I DONT KNOW HOW BUT THEY FOUND ME,62
+nep,Népal,60
+voodoos,Voodoos,19
+rosegarden funeral party,Rosegarden Funeral Party,37
+bicep,BICEP,62
+babygirl,Nevad Brave,34
+tsu nami,Tsu Nami,34
+evnne,EVNNE,47
+food house,food house,42
+salvador peralta,Salvador Peralta,6
+artie j,Artie J,43
+col3trane,Col3trane,52
+heylog,heylog,51
+mistki,Mitski,84
+tylerthecreator,"Tyler, The Creator",93
+n-a,Ariana Grande,96
+groovy,Groovy Aardvark,28
+flight,Flight of the Conchords,48
+nata,Natanael Cano,90
+audrey mika,Audrey Mika,48
+saint remo drive,Lost,50
+ahn ye eun,Ahn Ye Eun,47
+presley regier,Presley Regier,48
+mason murphy,Mason Murphy,52
+buboy,Buboy,22
+orange flavored cigarettes,orange flavored cigarettes,35
+lemon bread,lemon bread,17
+the faye,The Faye,4
+olen,Olenka and the Autumn Lovers,19
+rav,Ravyn Lenae,63
+asumuh under rated tbh,TWXN,67
+dark dazey,Dark Dazey,23
+bolothedj,BOLO THE DJ,26
+tai verdes,Tai Verdes,63
+josh makazo,Josh Makazo,50
+amber mark,Amber Mark,59
+mass of the fermenting dregs,MASS OF THE FERMENTING DREGS,48
+ocean heights,Ocean Heights,19
+bizzy banks,Bizzy Banks,49
+veez,Veeze,67
+the symposium,The Symposium,47
+nick drake,Nick Drake,63
+keoni usi,Keoni Usi,22
+swells,SWELLS,9
+meldrop,Meldrop,29
+the growlers,The Growlers,60
+suki,Suki Waterhouse,72
+the brook and the bluff,The Brook & The Bluff,52
+charles leclerc,Charles Leclerc,56
+jacks haupt,Jacks Haupt,26
+yodeling walmart kid,Mason Ramsey,53
+motives,Motivés,29
+goody grace,Goody Grace,50
+symposium,The Symposium,47
+ero808,ero808,56
+xinxin planet,Hins Cheung,60
+jaja bu,Jaja Bu,16
+henry moodie,Henry Moodie,69
+ber,berlioz,69
+harris harper,Harris Harper,1
+mj lenderman / wednesday,Wednesday,45
+tizzy t,Tizzy T,48
+debeull,Speech Debelle,26
+richie rozex,RICHIE ROZEX,43
+ta thomas,TA Thomas,34
+august james,August James,29
+pinegrove,Pinegrove,68
+searows,Searows,62
+kieler avery,Kieler Avery,12
+yaelokre,Yaelokre,65
+nikc nakk,NikNak,19
+boy in space,Boy In Space,53
+db.boutabag,DB.Boutabag,53
+cranberries,The Cranberries,78
+nightmare of you,Nightmare Of You,31
+gigi prezes,Gigi Rezende,23
+push ups,Drake,97
+nina estrada,Nini Estrada y su Órgano Melódico,45
+shadesofblue,SHADESOFBLUE,32
+sto cultr,STO CULTR,42
+frost children,Frost Children,49
+the head and the heart,The Head And The Heart,64
+elyse black,Elyse Black,0
+ash island,ASH ISLAND,55
+&team,&TEAM,64
+,Null Positiv,24
+,Null Positiv,24
+kyle lux,Kyle Lux,37
+vulfpeck,Vulfpeck,60
+"fat, evil children","Fat, Evil Children",18
+audrey huynh,Audrey Huynh,1
+onepact,ONE PACT,45
+humankind,Hanumankind,71
+leon,Leon Bridges,75
+penelope road,Penelope Road,41
+varsity,Varsity,31
+alina baraz,Alina Baraz,65
+mykey,MyKey,45
+the magnificent electric,The Magnificent Electric,5
+bossa,Bossa,55
+quannnic,quannnic,55
+eddie benjamin,Eddie Benjamin,37
+doechiiii,Doechii,80
+thee altons,The Altons,52
+clay birds,Clay Birds,29
+dont,Don Toliver,88
+fairlane,Fairlane,50
+,Null Positiv,24
+lexi jayde,Lexi Jayde,53
+idrk any,Idd Ack,2
+sabrea aijalon curiel,Sabrea Aijalon Curiel,0
+contradash,contradash,33
+swsh,Swsh,35
+grandson,grandson,66
+major jordan,Majid Jordan,69
+unflirt,Unflirt,40
+juanpalitoschinos,Juanpalitoschinos,40
+jordy,JORDY,49
+lcn,LCN!,36
+shallow water blackout,shallow water blackout,7
+exociety,exociety,32
+electric youth,Electric Youth,50
+akira khan,Akira Khan,18
+ace of base,Ace of Base,70
+tiff day,Tiffany Day,48
+kidz at play,Kidz At Play,28
+samara joy,Samara Joy,59
+weeekly,Weeekly,50
+clay and friends,Clay and Friends,41
+avalon lurks,Avalon Lurks,15
+will jay,Will Jay,41
+"dream, ivory","Dream, Ivory",68
+chika,CHIKA,61
+frank walker,Frank Walker,54
+camo,CAMO,53
+albert posis,Albert Posis,57
+best coast,Best Coast,46
+bluhd,Bluhd,6
+kimi carter,Kimi Carter,18
+the lemon twigs,The Lemon Twigs,47
+tamino,Tamino,57
+night tapes,Night Tapes,53
+jack and jack,Jack & Jack,60
+bol4,BOL4,63
+hol,Hollywood Undead,70
+"starfall, bixby, joon",starfall,60
+anita velveeta,Anita Velveeta,19
+the pica beats,The Pica Beats,8
+emilia,Emilia,81
+darcy moran,Darcy Moran,1
+crys,Crystal Castles,73
+fridayy,Fridayy,68
+2003 toyota corolla,2003 Toyota Corolla,44
+lavern,Lavern,70
+hayden,Hayden,32
+perry masun,Perry Maysun,46
+girl scout,Girl Scout,37
+gina miles,Gina Miles,22
+nova,NOVAH,38
+jesse jo stark,Jesse Jo Stark,43
+ben reilly,Ben Reilly,43
+jordan adetunji,Jordan Adetunji,72
+chatterton,Chatterton,25
+sim0ne,sim0ne,39
+chloe berry,Chloe Berry,15
+deb never,Deb Never,45
+hardrock,Hardrock,53
+freddie gibbs,Freddie Gibbs,69
+elias,Elias Alexander,27
+roisee,Roisee,60
+bursters,BURSTERS,16
+kb,KB,62
+jaguar milk,Jaguar Milk,0
+klangkuenstler,Klangkuenstler,53
+ryan woods,Ryan Woods,37
+bjork,Björk,65
+sports,Sports,62
+,Null Positiv,24
+martin campbell,Martin Campbell,41
+jssr,jssr,42
+weatherday,Weatherday,39
+mj lenderman,MJ Lenderman,59
+one,One Direction,88
+frank sativa,Frank Sativa,47
+sammy rae & the friends,Sammy Rae & The Friends,55
+tofusmell,tofusmell,25
+domkraft,Domkraft,22
+fleeting joys,Fleeting Joys,37
+james tw,James TW,63
+punchmade dev,Punchmade Dev,54
+lowertown,Lowertown,43
+serpentwithfeet,serpentwithfeet,55
+the ivy,The Ivy,47
+mogy,MOGY,42
+big theif,Big Thief,71
+ghost crew,Ghost Crew,7
+boostive,Boostive,24
+part time,Part Time,49
+duki,Duki,86
+cold cut,Coldcut,40
+girl ultra,Girl Ultra,48
+rocket,Elton John,86
+xana,Xana,50
+sunscreen,Baz Luhrmann,13
+emanuell cortes,Emanuela Cortesi,36
+adam port / keinemusik,Adam Port,76
+rauw,Rauw Alejandro,94
+sampa the great,Sampa the Great,49
+marc e bassy,Marc E. Bassy,58
+policias y ladrones,Policias y Ladrones,38
+xikers,xikers,51
+argy,Argy,65
+310 babiii,310babii,64
+pickle,Pickle,45
+britti,Britti,26
+kawaii steez,KawaiiSteez,4
+luis r conriquez,Luis R Conriquez,87
+american authors,American Authors,66
+push baby,push baby,34
+daniel ceased,Daniel Caesar,87
+"again,",Fred again..,79
+pretty boy aaron,Pretty Boy Aaron,41
+juicy black,Juicy Black,12
+siames,SIAMES,55
+akmu,AKMU,63
+zolita,Zolita,47
+michael kiwanuka,Michael Kiwanuka,71
+nurnberg,Nürnberg,43
+estelle allen,estelle allen,31
+kai cenat,Kai Cenat,46
+willow smith,WILLOW,72
+sir chole,Sir Chloe,63
+torren foot,Torren Foot,54
+armand van helden,Armand Van Helden,64
+caskets,Caskets,62
+evilgiane,evilgiane,51
+small talk,Niall Horan,76
+sorry ghost,Sorry Ghost,33
+chloe moriondo,chloe moriondo,57
+wimy,WIMY,53
+sorry,Sorry Ghost,33
+boys world,Boys World,49
+ayanna,Äyanna,44
+slenderbodies,slenderbodies,50
+apo hiking society,APO Hiking Society,61
+max styler,Max Styler,53
+zoe ko,Zoe Ko,42
+sword ii,Sword II,29
+dorian electra,Dorian Electra,50
+lsdream,LSDREAM,52
+tv on the radio,TV On The Radio,58
+storm orchestra,Storm Orchestra,34
+sunday scaries,Sunday Scaries,56
+alai,Alain-François,41
+ferris pier,Ferris Pier,30
+the japanese breakfast,Japanese Breakfast,58
+luuk van djik,Luuk Van Dijk,45
+yg marley,YG Marley,68
+marcellina,Marcellina,7
+delilah montagu,Delilah Montagu,59
+feist,Feist,60
+esha tewari,Esha Tewari,47
+mili,Mili,63
+rufus du sol,RÜFÜS DU SOL,76
+laci kaye booth,Laci Kaye Booth,39
+cykim,cykim,45
+sam nelson harris,Sam Nelson Harris,32
+barbed wire barbie,Barbed Wire Barbie,19
+bachelor,Bachelor,29
+mareux,Mareux,66
+whisnu santika,Whisnu Santika,62
+gabriel,Gabriella Rose,59
+jockstrap,Jockstrap,42
+will hall,Will Hall,0
+chow lee,Chow Lee,52
+jeon ji hee,Jeon Jin Hee,47
+addison grace,Addison Grace,41
+liam payne,Liam Payne,72
+aries,Aries,54
+inconsistent me,Inconsistent Me,30
+,Null Positiv,24
+jason ross,Jason Ross,50
+the sha la das,The Sha La Das,42
+schoolgirl byebye,Schoolgirl Byebye,43
+tennis,Tennis,50
+red clay strays,The Red Clay Strays,73
+kristiane,Kristiane,32
+tiny yawn,tiny yawn,33
+afternoon brunch,Afternoon Brunch,0
+lenni kim,Lenni Kim,44
+gracie abrmas,Gracie Abrams,91
+joseph vincent,Joseph Vincent,58
+parzival,Parzival,5
+twrp,TWRP,52
+nodisco,nodisco.,28
+"n.n./,n",N.N. (Nada A.K.A. Nadie),0
+tschabalala self,TCHAKALA VIP,20
+jax nwalor,Jex Nwalor,35
+arcy drive,Arcy Drive,48
+jay worthy,Jay Worthy,53
+just,Justin Bieber,92
+shreea kaul,Shreea Kaul,40
+polo & pan,Polo & Pan,62
+atarashi gakko,ATARASHII GAKKO!,60
+a boogie with da hoodie,A Boogie Wit da Hoodie,79
+marianne beaulieu,Marianne Beaulieu,45
+odunsi,Odunsi (The Engine),47
+club boybnd,CLUB BOYBND,44
+ryael,Ryael,24
+destructo disk,Destructo Disk,43
+eliza mclamb,Eliza McLamb,38
+nic d,Nic D,68
+lucidbeatz,lucidbeatz,70
+beabadovee,beabadoobee,83
+the greeting committee,The Greeting Committee,48
+hobo johnson,Hobo Johnson,50
+1tbsp,1tbsp,49
+,Null Positiv,24
+hayd,Hayden,32
+fritz hager,Fritz Hager,24
+joel sunny,Joel Sunny,60
+emily miao animator,Mili,63
+aron,Aron Afshar,46
+breakup shoes,Breakup Shoes,44
+sara kays,Sara Kays,60
+bbirdd,bbirdd,0
+eli winders,Eli Winders,40
+rochelle jordan,Rochelle Jordan,53
+vayda,Vayda,36
+savage ga$p,Savage Ga$p,61
+hollow coves,Hollow Coves,69
+ap dhillon,AP Dhillon,76
+hila,Hilary Duff,57
+kessoku band,結束バンド,63
+sirup,SIRUP,52
+pilot touhil,Pilot Touhill,9
+not,The Notorious B.I.G.,79
+niko rubio,Niko Rubio,39
+inoha,INOHA,60
+new aesthetic,New Aesthetic,22
+,Null Positiv,24
+mind's eye,Mind’s Eye,48
+glixen,Glixen,36
+jejw,Jéja,62
+hot milk,Hot Milk,53
+mikah,mikah,38
+emi grace,Emi Grace,39
+telenova,Telenova,43
+ainjo,Ainjo,11
+lord sko,Lord Sko,36
+mach-hommie,Mach-Hommy,56
+lilflamingo,LiL Flamingo,22
+mura masa,Mura Masa,61
+luude,Luude,66
+night cereal,Night Cereal,4
+tessa violet,Tessa Violet,52
+thee marloes,Thee Marloes,41
+willis,WILLIS,57
+faye,Faye Webster,74
+k suave,K Suave,49
+boyish,Boyish,40
+tinx,Tinzo,28
+tsar b,Tsar B,38
+wave &rome,Wave & Rome,14
+sagong,Sagong,32
+los nuevos chavos,Los Nuevos Chavos,40
+luvcat,Luvcat,53
+joan,Joan Baez,56
+someone,Lewis Capaldi,81
+pippa crossland,Pippa Crossland,30
+in the valley below,In The Valley Below,42
+don diablo,Don Diablo,69
+rebby,REBBY,29
+jeff satur,Jeff Satur,63
+trestles,Trestles,23
+osn,高爾宣 OSN,60
+ruth b,Ruth B.,74
+kwaye,KWAYE,41
+greentea peng,Greentea Peng,57
+path,Pathetic,53
+trndytrndy,trndytrndy,40
+johnny yukon,Johnny Yukon,47
+yonlapa,YONLAPA,35
+637godwin,637godwin,32
+jake,Jake Paul,39
+jenson mcrae,Jensen McRae,46
+you know,Yuno Miles,53
+weiland,Weiland,42
+dan+shay,Dan + Shay,74
+galaxie 500,Galaxie 500,43
+nesya,NESYA,57
+last dinosaurs,Last Dinosaurs,54
+younha,Younha,56
+muchi,Muchi,41
+cassie,Cassie,67
+kids that fly,Kids That Fly,42
+moneybagg yo,Moneybagg Yo,77
+justin park,Justin Park,43
+san pacho,San Pacho,50
+nightly,Nightly,52
+julia michaels,Julia Michaels,74
+huddy,Huddy,50
+hernewknife,Her New Knife,36
+brooke alexx,Brooke Alexx,45
+the jins,The Jins,43
+raon,Raon,42
+justin nech,Justin Nech,26
+key,Key Glock,77
+tobiahs,Tobiahs,57
+yt & lancey,Yeat,83
+kuwada,Kuwada,40
+louis tomlinson,Louis Tomlinson,68
+saint avangeline,Saint Avangeline,55
+crisaunt,Crisaunt,55
+autumn,Autumn!,66
+bimini,Bimini,26
+^,^L_,20
+the regrettes,The Regrettes,47
+grouptherapy,grouptherapy.,43
+suzi,Suzi Quatro,59
+doll riot,Doll Riot,16
+bubble tea and cigarettes,BUBBLE TEA AND CIGARETTES,47
+dev lemons,Dev Lemons,43
+stevie b,Stevie B,53
+emily yacina,Emily Yacina,66
+akasaki,AKASAKI,66
+aimer,Aimer,67
+chloe ament,Chloe Ament,52
+barns courtney,Barns Courtney,63
+j-hope,j-hope,73
+vikkstar123,Enima,54
+cowboyy,cowboyy,19
+waxahatchee,Waxahatchee,58
+the diz,The Chicks,66
+,Null Positiv,24
+jeremy passion,Jeremy Passion,56
+suggi,suggi,40
+null,Null Positiv,24
